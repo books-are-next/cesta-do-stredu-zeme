@@ -9,7 +9,7 @@
       "publisher": "Městská knihovna v Praze"
     },
     "elements": {
-      "title": "e-booknadpis2bezodstrnkovn",
+      "title": "e-booknadpis2bezodstrnkovn\ne-bookobsah",
       "subtitle": "",
       "h2": "",
       "h3": "",
@@ -36,18 +36,18 @@
             "filename": "cesta_do_stredu_zeme_split_000.md",
             "xhtml": "cesta_do_stredu_zeme_split_000.html",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "cesta_do_stredu_zeme_split_001.md",
             "xhtml": "cesta_do_stredu_zeme_split_001.html",
             "id": 1,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -66,7 +66,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PROFESOR LIDDENBROCK"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_004.md",
@@ -75,7 +76,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "STAROBYLÁ KNIHA"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_005.md",
@@ -84,7 +86,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "RUNOVÝ ZÁPIS"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_006.md",
@@ -93,7 +96,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ROZLUŠTĚNÍ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_007.md",
@@ -102,7 +106,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VÁŽNÉ ROZHODNUTÍ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_008.md",
@@ -111,7 +116,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PŘÍPRAVY NA CESTU"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_009.md",
@@ -120,7 +126,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ODJEZD"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_010.md",
@@ -129,7 +136,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "V KODANI"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_011.md",
@@ -138,7 +146,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "NA ISLANDU"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_012.md",
@@ -147,7 +156,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "STRÝC VYZVÍDÁ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_013.md",
@@ -156,7 +166,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ZÍSKÁVÁME VŮDCE"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_014.md",
@@ -165,7 +176,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "CESTA DO GARDÄRU"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_015.md",
@@ -174,7 +186,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DO STAPI"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_016.md",
@@ -183,7 +196,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "NOCLEH NA FAŘE"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_017.md",
@@ -192,7 +206,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VÝSTUP NA SNEFFELS"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_018.md",
@@ -201,7 +216,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "NA DNĚ KRÁTERU"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_019.md",
@@ -210,7 +226,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "POČÁTEK CESTY DO STŘEDU ZEMĚ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_020.md",
@@ -219,7 +236,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DALŠÍ SESTUP"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_021.md",
@@ -228,7 +246,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "HROZÍ NÁM NEDOSTATEK VODY"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_022.md",
@@ -237,7 +256,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "UHELNÉ SLOJE"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_023.md",
@@ -246,7 +266,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "BEZ VODY"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_024.md",
@@ -255,7 +276,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "HOREČNÁ NOC"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_025.md",
@@ -264,7 +286,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VODA"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_026.md",
@@ -273,7 +296,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "HANSŮV POTOK"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_027.md",
@@ -282,7 +306,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_028.md",
@@ -291,7 +316,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ZTRACEN V PODZEMÍ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_029.md",
@@ -300,7 +326,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "BLOUDĚNÍ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_030.md",
@@ -309,7 +336,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ZACHRÁNĚN"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_031.md",
@@ -318,7 +346,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "V JESKYNI"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_032.md",
@@ -327,7 +356,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "LIDDENBROCKOVO MOŘE"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_033.md",
@@ -336,7 +366,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "STAVBA PRÁMU"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_034.md",
@@ -345,7 +376,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "SEN O DĚJINÁCH ZEMĚ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_035.md",
@@ -354,7 +386,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PŘEDPOTOPNÍ NESTVŮRY"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_036.md",
@@ -363,7 +396,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "AXELŮV OSTROV"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_037.md",
@@ -372,7 +406,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "BOUŘE"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_038.md",
@@ -381,7 +416,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ZTROSKOTÁNÍ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_039.md",
@@ -390,7 +426,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PRAČLOVĚK"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_040.md",
@@ -399,7 +436,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PROFESOROVA PŘEDNÁŠKA"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_041.md",
@@ -408,7 +446,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "HRŮZNÉ ZJEVENÍ"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_042.md",
@@ -417,7 +456,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "PŘEKÁŽKA"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_043.md",
@@ -426,7 +466,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "VÝBUCH"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_044.md",
@@ -435,7 +476,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "V PODZEMNÍM PROUDU"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_045.md",
@@ -444,7 +486,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "KRÁTER SOPKY"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_046.md",
@@ -453,7 +496,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "KDE TO JSME?"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_047.md",
@@ -462,15 +506,16 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "ZÁVĚR"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_048.md",
             "xhtml": "cesta_do_stredu_zeme_split_048.html",
             "id": 48,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -485,7 +530,7 @@
         "Jules Verne",
         "Městská knihovna v Praze"
       ],
-      "modified": "2021-11-02T08:13:57.558Z"
+      "modified": "2021-11-02T08:21:49.510Z"
     },
     "chapters": [
       {
@@ -501,7 +546,7 @@
         "xhtml": "cesta_do_stredu_zeme_split_001.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OBSAH",
         "subtitleSuggest": "",
         "filename": "cesta_do_stredu_zeme_split_002.md",
         "xhtml": "cesta_do_stredu_zeme_split_002.html"
@@ -855,6 +900,6 @@
       "user": "books-are-next",
       "repo": "cesta-do-stredu-zeme"
     },
-    "generatedAt": 1635840838487
+    "generatedAt": 1635841310542
   }
 }

@@ -1,8 +1,6 @@
 ---
-title: ''
+title: OBSAH
 ---
-
-OBSAH
 
 [PROFESOR LIDDENBROCK](../Text/cesta_do_stredu_zeme_split_003.html#_Toc333831020)
 
