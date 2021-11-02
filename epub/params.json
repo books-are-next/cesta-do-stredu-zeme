@@ -57,7 +57,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "OBSAH"
           },
           {
             "filename": "cesta_do_stredu_zeme_split_003.md",
@@ -530,7 +531,7 @@
         "Jules Verne",
         "Městská knihovna v Praze"
       ],
-      "modified": "2021-11-02T08:13:57.558Z"
+      "modified": "2021-11-02T08:21:49.510Z"
     },
     "chapters": [
       {
@@ -546,7 +547,7 @@
         "xhtml": "cesta_do_stredu_zeme_split_001.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OBSAH",
         "subtitleSuggest": "",
         "filename": "cesta_do_stredu_zeme_split_002.md",
         "xhtml": "cesta_do_stredu_zeme_split_002.html"
@@ -900,6 +901,6 @@
       "user": "books-are-next",
       "repo": "cesta-do-stredu-zeme"
     },
-    "generatedAt": 1635840838487
+    "generatedAt": 1635841310542
   }
 }
