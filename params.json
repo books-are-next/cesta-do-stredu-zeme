@@ -22,7 +22,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "em": "e-booktiracitacetextkurzvaChar",
       "strong": "e-booktirautoradlo\ne-booktirtexttunChar",
       "remove": "",
       "ignore": ""
@@ -531,7 +531,7 @@
         "Jules Verne",
         "Městská knihovna v Praze"
       ],
-      "modified": "2021-11-02T08:25:54.796Z"
+      "modified": "2021-11-02T08:34:05.028Z"
     },
     "chapters": [
       {
@@ -901,6 +901,6 @@
       "user": "books-are-next",
       "repo": "cesta-do-stredu-zeme"
     },
-    "generatedAt": 1635841555635
+    "generatedAt": 1635842046096
   }
 }
