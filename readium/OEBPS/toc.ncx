@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ces">
+  <head>
+    <meta content="8ebf9531-2fc9-4177-accf-488a616eb84e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.8.41)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cesta do středu Země</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="b420b611-d271-473b-9c51-3e579eafd753" playOrder="1">
+      <navLabel>
+        <text>PROFESOR LIDDENBROCK</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_003.html"/>
+    </navPoint>
+    <navPoint id="100bbe25-f934-4dea-9dcd-c21e3d3badfd" playOrder="2">
+      <navLabel>
+        <text>STAROBYLÁ KNIHA</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_004.html"/>
+    </navPoint>
+    <navPoint id="cd3c3f4b-d2d0-4980-82a2-b11e1fffe0a0" playOrder="3">
+      <navLabel>
+        <text>RUNOVÝ ZÁPIS</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_005.html"/>
+    </navPoint>
+    <navPoint id="16ac64de-7c97-45fc-b79d-91a1e106951c" playOrder="4">
+      <navLabel>
+        <text>ROZLUŠTĚNÍ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_006.html"/>
+    </navPoint>
+    <navPoint id="4744e9f8-217f-4d2e-83fe-7cfca1de2b25" playOrder="5">
+      <navLabel>
+        <text>VÁŽNÉ ROZHODNUTÍ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_007.html"/>
+    </navPoint>
+    <navPoint id="b6c369ec-0924-4cc0-8fb2-4e565aa98e1c" playOrder="6">
+      <navLabel>
+        <text>PŘÍPRAVY NA CESTU</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_008.html"/>
+    </navPoint>
+    <navPoint id="3aaaf1a0-194d-4bea-b3e4-6afec3889286" playOrder="7">
+      <navLabel>
+        <text>ODJEZD</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_009.html"/>
+    </navPoint>
+    <navPoint id="976660dc-b0b9-4ebf-906b-1dabcc25d26a" playOrder="8">
+      <navLabel>
+        <text>V KODANI</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_010.html"/>
+    </navPoint>
+    <navPoint id="a6d0ca3a-f011-4464-82be-87f9683f8032" playOrder="9">
+      <navLabel>
+        <text>NA ISLANDU</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_011.html"/>
+    </navPoint>
+    <navPoint id="868bb291-0625-49d0-910b-2240a2d4f268" playOrder="10">
+      <navLabel>
+        <text>STRÝC VYZVÍDÁ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_012.html"/>
+    </navPoint>
+    <navPoint id="7d485cdb-5a62-489f-ac05-15a931f286d8" playOrder="11">
+      <navLabel>
+        <text>ZÍSKÁVÁME VŮDCE</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_013.html"/>
+    </navPoint>
+    <navPoint id="5dcb9c26-869d-4b7a-811b-7a25531981f3" playOrder="12">
+      <navLabel>
+        <text>CESTA DO GARDÄRU</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_014.html"/>
+    </navPoint>
+    <navPoint id="ce14d208-ebbb-4303-b856-3ead37967ba5" playOrder="13">
+      <navLabel>
+        <text>DO STAPI</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_015.html"/>
+    </navPoint>
+    <navPoint id="db8da234-ebea-4c46-bee2-853b231eeee1" playOrder="14">
+      <navLabel>
+        <text>NOCLEH NA FAŘE</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_016.html"/>
+    </navPoint>
+    <navPoint id="8ceca782-9be2-4e75-8ebe-98eeb5355863" playOrder="15">
+      <navLabel>
+        <text>VÝSTUP NA SNEFFELS</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_017.html"/>
+    </navPoint>
+    <navPoint id="e34410e2-3976-4880-81b7-ec6e01bcf748" playOrder="16">
+      <navLabel>
+        <text>NA DNĚ KRÁTERU</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_018.html"/>
+    </navPoint>
+    <navPoint id="68868620-0185-4c88-b70f-afdb90a6170b" playOrder="17">
+      <navLabel>
+        <text>POČÁTEK CESTY DO STŘEDU ZEMĚ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_019.html"/>
+    </navPoint>
+    <navPoint id="726cd7aa-412b-41d6-8b4b-b72045318201" playOrder="18">
+      <navLabel>
+        <text>DALŠÍ SESTUP</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_020.html"/>
+    </navPoint>
+    <navPoint id="e174ca46-c9da-4aa5-a499-b2b1cd5c2cdf" playOrder="19">
+      <navLabel>
+        <text>HROZÍ NÁM NEDOSTATEK VODY</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_021.html"/>
+    </navPoint>
+    <navPoint id="012a10b1-31d4-4325-bffe-0c7a0783481a" playOrder="20">
+      <navLabel>
+        <text>UHELNÉ SLOJE</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_022.html"/>
+    </navPoint>
+    <navPoint id="327dcdba-ef83-47f2-aa83-a677ba8e391d" playOrder="21">
+      <navLabel>
+        <text>BEZ VODY</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_023.html"/>
+    </navPoint>
+    <navPoint id="e7c246d1-b643-438b-a9c8-4f2ad1ab947e" playOrder="22">
+      <navLabel>
+        <text>HOREČNÁ NOC</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_024.html"/>
+    </navPoint>
+    <navPoint id="d12cad1a-c5e4-4014-9a55-79eaed00260e" playOrder="23">
+      <navLabel>
+        <text>VODA</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_025.html"/>
+    </navPoint>
+    <navPoint id="1ae57a43-6169-4eaf-9370-0fd3392459c1" playOrder="24">
+      <navLabel>
+        <text>HANSŮV POTOK</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_026.html"/>
+    </navPoint>
+    <navPoint id="64da4e00-48c0-420a-9271-7cf96735c56d" playOrder="25">
+      <navLabel>
+        <text>DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_027.html"/>
+    </navPoint>
+    <navPoint id="0636d597-ec6e-449e-beb2-0755976393f5" playOrder="26">
+      <navLabel>
+        <text>ZTRACEN V PODZEMÍ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_028.html"/>
+    </navPoint>
+    <navPoint id="67945555-fce9-488a-8048-2f93383edd5c" playOrder="27">
+      <navLabel>
+        <text>BLOUDĚNÍ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_029.html"/>
+    </navPoint>
+    <navPoint id="8e31e94d-1573-4211-b2e0-1bd16c637444" playOrder="28">
+      <navLabel>
+        <text>ZACHRÁNĚN</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_030.html"/>
+    </navPoint>
+    <navPoint id="9a965e07-9798-41dd-a0dd-39128bcd69a1" playOrder="29">
+      <navLabel>
+        <text>V JESKYNI</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_031.html"/>
+    </navPoint>
+    <navPoint id="3b9936f5-8285-4c09-9934-3c71a83517f6" playOrder="30">
+      <navLabel>
+        <text>LIDDENBROCKOVO MOŘE</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_032.html"/>
+    </navPoint>
+    <navPoint id="51dfd04a-2c1b-496f-b091-582138c844fc" playOrder="31">
+      <navLabel>
+        <text>STAVBA PRÁMU</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_033.html"/>
+    </navPoint>
+    <navPoint id="126d8675-f06f-4adc-8724-58aac9dc1708" playOrder="32">
+      <navLabel>
+        <text>SEN O DĚJINÁCH ZEMĚ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_034.html"/>
+    </navPoint>
+    <navPoint id="08eb0f8c-84d9-48ee-938c-d7dbd40cdf1e" playOrder="33">
+      <navLabel>
+        <text>PŘEDPOTOPNÍ NESTVŮRY</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_035.html"/>
+    </navPoint>
+    <navPoint id="6e8ad3ee-3254-4e1e-95c6-cb05cdcf50e9" playOrder="34">
+      <navLabel>
+        <text>AXELŮV OSTROV</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_036.html"/>
+    </navPoint>
+    <navPoint id="ffe787e0-1d51-4d7b-8f3d-fd32285e1965" playOrder="35">
+      <navLabel>
+        <text>BOUŘE</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_037.html"/>
+    </navPoint>
+    <navPoint id="5301d9dd-f011-4562-be43-4043acad4aea" playOrder="36">
+      <navLabel>
+        <text>ZTROSKOTÁNÍ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_038.html"/>
+    </navPoint>
+    <navPoint id="45a4c326-be14-4bea-b2ed-0acd8e22ab7b" playOrder="37">
+      <navLabel>
+        <text>PRAČLOVĚK</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_039.html"/>
+    </navPoint>
+    <navPoint id="12a3c7f5-4738-4639-8158-7afa9ee04cd9" playOrder="38">
+      <navLabel>
+        <text>PROFESOROVA PŘEDNÁŠKA</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_040.html"/>
+    </navPoint>
+    <navPoint id="6a39cfe5-b3a4-4eb6-a832-cfe9b96581d5" playOrder="39">
+      <navLabel>
+        <text>HRŮZNÉ ZJEVENÍ</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_041.html"/>
+    </navPoint>
+    <navPoint id="96767a0d-5548-4c5f-b68b-489a11b152b2" playOrder="40">
+      <navLabel>
+        <text>PŘEKÁŽKA</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_042.html"/>
+    </navPoint>
+    <navPoint id="2dd79d2f-4306-45e9-9b02-6bf1693986d1" playOrder="41">
+      <navLabel>
+        <text>VÝBUCH</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_043.html"/>
+    </navPoint>
+    <navPoint id="35e00bda-9abf-4a32-b233-65bd48f0491e" playOrder="42">
+      <navLabel>
+        <text>V PODZEMNÍM PROUDU</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_044.html"/>
+    </navPoint>
+    <navPoint id="0f3b6a3c-703b-4dcd-a151-2e47553c609a" playOrder="43">
+      <navLabel>
+        <text>KRÁTER SOPKY</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_045.html"/>
+    </navPoint>
+    <navPoint id="13b91318-c9c9-48d4-a14d-089f4c39f94b" playOrder="44">
+      <navLabel>
+        <text>KDE TO JSME?</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_046.html"/>
+    </navPoint>
+    <navPoint id="0bea2df5-12a3-4430-8437-7fc8bc9f7fb2" playOrder="45">
+      <navLabel>
+        <text>ZÁVĚR</text>
+      </navLabel>
+      <content src="Text/cesta_do_stredu_zeme_split_047.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
