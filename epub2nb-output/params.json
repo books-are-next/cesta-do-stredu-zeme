@@ -6,7 +6,9 @@
       "author": "Jules Verne",
       "modified": "2021-11-02T08:06:11.256Z",
       "languageCode": "cs",
-      "publisher": "Městská knihovna v Praze"
+      "publisher": "Městská knihovna v Praze",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "e-booknadpis2bezodstrnkovn\ne-bookobsah",
@@ -36,7 +38,7 @@
             "filename": "cesta_do_stredu_zeme_split_000.md",
             "xhtml": "cesta_do_stredu_zeme_split_000.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -531,7 +533,7 @@
         "Jules Verne",
         "Městská knihovna v Praze"
       ],
-      "modified": "2021-12-01T21:14:48.059Z"
+      "modified": "2021-12-01T21:49:00.198Z"
     },
     "chapters": [
       {
@@ -901,6 +903,6 @@
       "user": "books-are-next",
       "repo": "cesta-do-stredu-zeme"
     },
-    "generatedAt": 1638393288961
+    "generatedAt": 1638395341045
   }
 }
