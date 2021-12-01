@@ -12,7 +12,7 @@ Jeho větu zakončilo prudké gesto.
 
 Diktát začal. Držel jsem se co nejlépe. Písmena vytvořila nesrozumitelný sled těchto slov:
 
-![](./resources/image008.jpg)
+![](../Images/image008.jpg)
 
 Když jsem dopsal, vzal mi strýc papír prudce z ruky a dlouho si jej pozorně prohlížel.
 
@@ -34,7 +34,7 @@ Strýc odložil brýle, vzal silnou lupu a prohlížel pečlivě první stránky
 
 Na druhé straně druhého listu, na patitulu knihy, objevil jakousi skvrnu, která na první pohled vypadala jako inkoustová kaňka. Když se však na ni podíval zblízka, rozpoznal v ní několik napůl vymazaných písmen. Strýc pochopil, že v tom je něco zajímavého. Jal se tedy skvrnu s lupou v ruce zkoumat, a nakonec v ní rozpoznal runové znaky, které lehce přečetl:
 
-![](./resources/image010.jpg)
+![](../Images/image010.jpg)
 
 „Arne Saknussemm!“ zvolal vítězně. „Ale to je přece jméno, a to jméno islandské! Jméno učence ze šestnáctého století, slavného alchymisty!“ Pohlédl jsem na strýce s jistým obdivem.
 
@@ -84,7 +84,7 @@ Podívejme se! pomyslil jsem si.
 
 „Uvidíme, co to udělá! Axele, napiš teď jakoukoli větu na tenhle papír, ale místo psaní písmen v řadě za sebou, piš je postupně do svislých sloupců tak, abys je řadil k sobě po pěti nebo po šesti!“ Pochopil jsem, o co mu jde, a okamžitě jsem napsal shora dolů:
 
-![](./resources/image012.jpg)
+![](../Images/image012.jpg)
 
 „Dobrá,“ řekl profesor, aniž to četl. „Teď ta písmena přečti vodorovně!“ Poslechl jsem a dostal jsem tuto větu:
 
