@@ -9,8 +9,9 @@ meta:
   modified: '2021-11-02T08:06:11.256Z'
   languageCode: cs
   publisher: Městská knihovna v Praze
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - cesta_do_stredu_zeme_split_000.html
   - cesta_do_stredu_zeme_split_002.html
   - cesta_do_stredu_zeme_split_003.html
   - cesta_do_stredu_zeme_split_004.html
