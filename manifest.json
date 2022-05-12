@@ -8,9 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-cesta-do-stredu-zeme-e96f5ad",
-  "revision": "e96f5ad",
+  "identifier": "verne-cesta-do-stredu-zeme-5310450",
+  "revision": "5310450",
   "readingOrder": [
+    "promo.html",
     "cesta_do_stredu_zeme_split_002.html",
     "cesta_do_stredu_zeme_split_003.html",
     "cesta_do_stredu_zeme_split_004.html",
@@ -60,10 +61,22 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351813094
+    "date": "Thu May 12 2022 15:11:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368313621
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cesta_do_stredu_zeme_split_002.html",
+      "toc": []
+    },
     {
       "title": "OBSAH",
       "file": "cesta_do_stredu_zeme_split_002.html",
@@ -71,8 +84,8 @@
       "chars": 606,
       "ideas": 46,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "cesta_do_stredu_zeme_split_003.html",
       "toc": [
         {
@@ -91,7 +104,7 @@
       "chars": 6243,
       "ideas": 33,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "cesta_do_stredu_zeme_split_002.html",
       "next": "cesta_do_stredu_zeme_split_004.html",
       "toc": [
@@ -111,7 +124,7 @@
       "chars": 6225,
       "ideas": 47,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "cesta_do_stredu_zeme_split_003.html",
       "next": "cesta_do_stredu_zeme_split_005.html",
       "toc": [
@@ -131,7 +144,7 @@
       "chars": 9145,
       "ideas": 65,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "cesta_do_stredu_zeme_split_004.html",
       "next": "cesta_do_stredu_zeme_split_006.html",
       "toc": [
@@ -151,7 +164,7 @@
       "chars": 5947,
       "ideas": 37,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "cesta_do_stredu_zeme_split_005.html",
       "next": "cesta_do_stredu_zeme_split_007.html",
       "toc": [
@@ -171,7 +184,7 @@
       "chars": 7723,
       "ideas": 55,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "cesta_do_stredu_zeme_split_006.html",
       "next": "cesta_do_stredu_zeme_split_008.html",
       "toc": [
@@ -191,7 +204,7 @@
       "chars": 11343,
       "ideas": 77,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "cesta_do_stredu_zeme_split_007.html",
       "next": "cesta_do_stredu_zeme_split_009.html",
       "toc": [
@@ -211,7 +224,7 @@
       "chars": 8524,
       "ideas": 76,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "cesta_do_stredu_zeme_split_008.html",
       "next": "cesta_do_stredu_zeme_split_010.html",
       "toc": [
@@ -231,7 +244,7 @@
       "chars": 9611,
       "ideas": 55,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "cesta_do_stredu_zeme_split_009.html",
       "next": "cesta_do_stredu_zeme_split_011.html",
       "toc": [
@@ -251,7 +264,7 @@
       "chars": 9904,
       "ideas": 52,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "cesta_do_stredu_zeme_split_010.html",
       "next": "cesta_do_stredu_zeme_split_012.html",
       "toc": [
@@ -271,7 +284,7 @@
       "chars": 6787,
       "ideas": 69,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "cesta_do_stredu_zeme_split_011.html",
       "next": "cesta_do_stredu_zeme_split_013.html",
       "toc": [
@@ -291,7 +304,7 @@
       "chars": 8581,
       "ideas": 40,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "cesta_do_stredu_zeme_split_012.html",
       "next": "cesta_do_stredu_zeme_split_014.html",
       "toc": [
@@ -311,7 +324,7 @@
       "chars": 7939,
       "ideas": 46,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "cesta_do_stredu_zeme_split_013.html",
       "next": "cesta_do_stredu_zeme_split_015.html",
       "toc": [
@@ -331,7 +344,7 @@
       "chars": 8083,
       "ideas": 37,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "cesta_do_stredu_zeme_split_014.html",
       "next": "cesta_do_stredu_zeme_split_016.html",
       "toc": [
@@ -351,7 +364,7 @@
       "chars": 7947,
       "ideas": 48,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "cesta_do_stredu_zeme_split_015.html",
       "next": "cesta_do_stredu_zeme_split_017.html",
       "toc": [
@@ -371,7 +384,7 @@
       "chars": 8141,
       "ideas": 44,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "cesta_do_stredu_zeme_split_016.html",
       "next": "cesta_do_stredu_zeme_split_018.html",
       "toc": [
@@ -391,7 +404,7 @@
       "chars": 8159,
       "ideas": 51,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "cesta_do_stredu_zeme_split_017.html",
       "next": "cesta_do_stredu_zeme_split_019.html",
       "toc": [
@@ -411,7 +424,7 @@
       "chars": 6367,
       "ideas": 50,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "cesta_do_stredu_zeme_split_018.html",
       "next": "cesta_do_stredu_zeme_split_020.html",
       "toc": [
@@ -431,7 +444,7 @@
       "chars": 7452,
       "ideas": 66,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "cesta_do_stredu_zeme_split_019.html",
       "next": "cesta_do_stredu_zeme_split_021.html",
       "toc": [
@@ -451,7 +464,7 @@
       "chars": 6716,
       "ideas": 50,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "cesta_do_stredu_zeme_split_020.html",
       "next": "cesta_do_stredu_zeme_split_022.html",
       "toc": [
@@ -471,7 +484,7 @@
       "chars": 6524,
       "ideas": 39,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "cesta_do_stredu_zeme_split_021.html",
       "next": "cesta_do_stredu_zeme_split_023.html",
       "toc": [
@@ -491,7 +504,7 @@
       "chars": 6117,
       "ideas": 49,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "cesta_do_stredu_zeme_split_022.html",
       "next": "cesta_do_stredu_zeme_split_024.html",
       "toc": [
@@ -511,7 +524,7 @@
       "chars": 4328,
       "ideas": 27,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "cesta_do_stredu_zeme_split_023.html",
       "next": "cesta_do_stredu_zeme_split_025.html",
       "toc": [
@@ -531,7 +544,7 @@
       "chars": 6524,
       "ideas": 65,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "cesta_do_stredu_zeme_split_024.html",
       "next": "cesta_do_stredu_zeme_split_026.html",
       "toc": [
@@ -551,7 +564,7 @@
       "chars": 5078,
       "ideas": 35,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "cesta_do_stredu_zeme_split_025.html",
       "next": "cesta_do_stredu_zeme_split_027.html",
       "toc": [
@@ -571,7 +584,7 @@
       "chars": 6414,
       "ideas": 73,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "cesta_do_stredu_zeme_split_026.html",
       "next": "cesta_do_stredu_zeme_split_028.html",
       "toc": [
@@ -591,7 +604,7 @@
       "chars": 3804,
       "ideas": 27,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "cesta_do_stredu_zeme_split_027.html",
       "next": "cesta_do_stredu_zeme_split_029.html",
       "toc": [
@@ -611,7 +624,7 @@
       "chars": 4875,
       "ideas": 30,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "cesta_do_stredu_zeme_split_028.html",
       "next": "cesta_do_stredu_zeme_split_030.html",
       "toc": [
@@ -631,7 +644,7 @@
       "chars": 7639,
       "ideas": 97,
       "role": "chapter",
-      "order": 28,
+      "order": 29,
       "prev": "cesta_do_stredu_zeme_split_029.html",
       "next": "cesta_do_stredu_zeme_split_031.html",
       "toc": [
@@ -651,7 +664,7 @@
       "chars": 4905,
       "ideas": 49,
       "role": "chapter",
-      "order": 29,
+      "order": 30,
       "prev": "cesta_do_stredu_zeme_split_030.html",
       "next": "cesta_do_stredu_zeme_split_032.html",
       "toc": [
@@ -671,7 +684,7 @@
       "chars": 11398,
       "ideas": 59,
       "role": "chapter",
-      "order": 30,
+      "order": 31,
       "prev": "cesta_do_stredu_zeme_split_031.html",
       "next": "cesta_do_stredu_zeme_split_033.html",
       "toc": [
@@ -691,7 +704,7 @@
       "chars": 6055,
       "ideas": 74,
       "role": "chapter",
-      "order": 31,
+      "order": 32,
       "prev": "cesta_do_stredu_zeme_split_032.html",
       "next": "cesta_do_stredu_zeme_split_034.html",
       "toc": [
@@ -711,7 +724,7 @@
       "chars": 9180,
       "ideas": 63,
       "role": "chapter",
-      "order": 32,
+      "order": 33,
       "prev": "cesta_do_stredu_zeme_split_033.html",
       "next": "cesta_do_stredu_zeme_split_035.html",
       "toc": [
@@ -731,7 +744,7 @@
       "chars": 9077,
       "ideas": 62,
       "role": "chapter",
-      "order": 33,
+      "order": 34,
       "prev": "cesta_do_stredu_zeme_split_034.html",
       "next": "cesta_do_stredu_zeme_split_036.html",
       "toc": [
@@ -751,7 +764,7 @@
       "chars": 6181,
       "ideas": 56,
       "role": "chapter",
-      "order": 34,
+      "order": 35,
       "prev": "cesta_do_stredu_zeme_split_035.html",
       "next": "cesta_do_stredu_zeme_split_037.html",
       "toc": [
@@ -771,7 +784,7 @@
       "chars": 8155,
       "ideas": 63,
       "role": "chapter",
-      "order": 35,
+      "order": 36,
       "prev": "cesta_do_stredu_zeme_split_036.html",
       "next": "cesta_do_stredu_zeme_split_038.html",
       "toc": [
@@ -791,7 +804,7 @@
       "chars": 7690,
       "ideas": 72,
       "role": "chapter",
-      "order": 36,
+      "order": 37,
       "prev": "cesta_do_stredu_zeme_split_037.html",
       "next": "cesta_do_stredu_zeme_split_039.html",
       "toc": [
@@ -811,7 +824,7 @@
       "chars": 5553,
       "ideas": 30,
       "role": "chapter",
-      "order": 37,
+      "order": 38,
       "prev": "cesta_do_stredu_zeme_split_038.html",
       "next": "cesta_do_stredu_zeme_split_040.html",
       "toc": [
@@ -831,7 +844,7 @@
       "chars": 8184,
       "ideas": 36,
       "role": "chapter",
-      "order": 38,
+      "order": 39,
       "prev": "cesta_do_stredu_zeme_split_039.html",
       "next": "cesta_do_stredu_zeme_split_041.html",
       "toc": [
@@ -851,7 +864,7 @@
       "chars": 8892,
       "ideas": 55,
       "role": "chapter",
-      "order": 39,
+      "order": 40,
       "prev": "cesta_do_stredu_zeme_split_040.html",
       "next": "cesta_do_stredu_zeme_split_042.html",
       "toc": [
@@ -871,7 +884,7 @@
       "chars": 7266,
       "ideas": 49,
       "role": "chapter",
-      "order": 40,
+      "order": 41,
       "prev": "cesta_do_stredu_zeme_split_041.html",
       "next": "cesta_do_stredu_zeme_split_043.html",
       "toc": [
@@ -891,7 +904,7 @@
       "chars": 7013,
       "ideas": 38,
       "role": "chapter",
-      "order": 41,
+      "order": 42,
       "prev": "cesta_do_stredu_zeme_split_042.html",
       "next": "cesta_do_stredu_zeme_split_044.html",
       "toc": [
@@ -911,7 +924,7 @@
       "chars": 8104,
       "ideas": 68,
       "role": "chapter",
-      "order": 42,
+      "order": 43,
       "prev": "cesta_do_stredu_zeme_split_043.html",
       "next": "cesta_do_stredu_zeme_split_045.html",
       "toc": [
@@ -931,7 +944,7 @@
       "chars": 7887,
       "ideas": 61,
       "role": "chapter",
-      "order": 43,
+      "order": 44,
       "prev": "cesta_do_stredu_zeme_split_044.html",
       "next": "cesta_do_stredu_zeme_split_046.html",
       "toc": [
@@ -951,7 +964,7 @@
       "chars": 7857,
       "ideas": 63,
       "role": "chapter",
-      "order": 44,
+      "order": 45,
       "prev": "cesta_do_stredu_zeme_split_045.html",
       "next": "cesta_do_stredu_zeme_split_047.html",
       "toc": [
@@ -971,7 +984,7 @@
       "chars": 4822,
       "ideas": 42,
       "role": "chapter",
-      "order": 45,
+      "order": 46,
       "prev": "cesta_do_stredu_zeme_split_046.html",
       "next": "colophon.html",
       "toc": [
