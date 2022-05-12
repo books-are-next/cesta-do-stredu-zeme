@@ -1,5 +1,6 @@
 ---
 title: V JESKYNI
+contentType: prose
 ---
 
 Když jsem přišel k sobě, ležel jsem v pološeru na tlustých přikrývkách.

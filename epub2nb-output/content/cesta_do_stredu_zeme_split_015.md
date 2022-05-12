@@ -1,5 +1,6 @@
 ---
 title: DO STAPI
+contentType: prose
 ---
 
 Měla už být noc, ale na pětašedesáté rovnoběžce nesmí v polárních krajinách denní světlo v této době nikoho překvapit. Na Islandu v červnu a v červenci slunce nezapadá.

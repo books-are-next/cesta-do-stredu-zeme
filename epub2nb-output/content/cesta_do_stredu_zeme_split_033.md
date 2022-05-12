@@ -1,5 +1,6 @@
 ---
 title: STAVBA PRÁMU
+contentType: prose
 ---
 
 Nazítří jsem se probudil zcela zdráv. Napadlo mi, že by mi velmi posloužila lázeň, a tak jsem se šel na několik minut ponořit do tohoto „Středozemního moře“. Takového jména si rozhodně zasluhovalo.

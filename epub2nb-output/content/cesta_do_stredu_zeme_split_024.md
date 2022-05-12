@@ -1,5 +1,6 @@
 ---
 title: HOREČNÁ NOC
+contentType: prose
 ---
 
 Sestup teď pokračoval novou chodbou. Hans kráčel jako obvykle vpředu.

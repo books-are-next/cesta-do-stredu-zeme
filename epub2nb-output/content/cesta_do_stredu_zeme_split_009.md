@@ -1,5 +1,6 @@
 ---
 title: ODJEZD
+contentType: prose
 ---
 
 Tak skončil náš pamětihodný rozhovor. Rozpálil mne. Vyšel jsem ze strýcovy pracovny jako omámený, a protože v hamburských ulicích nebylo pro mne dost vzduchu, vydal jsem se na břeh Labe k parnímu přívozu, který spojuje město s hamburským nádražím.  

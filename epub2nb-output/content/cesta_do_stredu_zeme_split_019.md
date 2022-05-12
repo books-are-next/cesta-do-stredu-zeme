@@ -1,5 +1,6 @@
 ---
 title: POČÁTEK CESTY DO STŘEDU ZEMĚ
+contentType: prose
 ---
 
 Opravdová cesta začala. Až dosud jsme – byť s námahou – zmohli všechny obtíže. Ty se však teď budou pod našima nohama přímo rojit.

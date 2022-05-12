@@ -1,5 +1,6 @@
 ---
 title: NOCLEH NA FAŘE
+contentType: prose
 ---
 
 Stapi je vesnice o třiceti chýších, postavených na lávě a zalévaných sluneč-

@@ -1,5 +1,6 @@
 ---
 title: PRAČLOVĚK
+contentType: prose
 ---
 
 Nemohu popsat pocity, které prožíval profesor Liddenbrock. Jeho překvapení, nedůvěru a nakonec vztek. Nikdy jsem neviděl člověka tak vyvedeného z míry a potom tak rozzuřeného. Únava z přeplavby, prožitá nebezpečí, to vše mělo začít znova! Místo vpřed pluli jsme vzad!

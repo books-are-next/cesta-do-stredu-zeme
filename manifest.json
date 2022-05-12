@@ -1,20 +1,71 @@
 {
-  "author": "Jules Verne",
-  "edition": "beletrie",
-  "identifier": "verne-cesta-do-stredu-zeme-9cdc338",
-  "languagecode": "cs",
-  "modified": "2021-11-02T08:06:11.256Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Cesta do středu Země",
-  "revision": "9cdc338",
+  "author": "Jules Verne",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "verne-cesta-do-stredu-zeme-e96f5ad",
+  "revision": "e96f5ad",
+  "readingOrder": [
+    "cesta_do_stredu_zeme_split_002.html",
+    "cesta_do_stredu_zeme_split_003.html",
+    "cesta_do_stredu_zeme_split_004.html",
+    "cesta_do_stredu_zeme_split_005.html",
+    "cesta_do_stredu_zeme_split_006.html",
+    "cesta_do_stredu_zeme_split_007.html",
+    "cesta_do_stredu_zeme_split_008.html",
+    "cesta_do_stredu_zeme_split_009.html",
+    "cesta_do_stredu_zeme_split_010.html",
+    "cesta_do_stredu_zeme_split_011.html",
+    "cesta_do_stredu_zeme_split_012.html",
+    "cesta_do_stredu_zeme_split_013.html",
+    "cesta_do_stredu_zeme_split_014.html",
+    "cesta_do_stredu_zeme_split_015.html",
+    "cesta_do_stredu_zeme_split_016.html",
+    "cesta_do_stredu_zeme_split_017.html",
+    "cesta_do_stredu_zeme_split_018.html",
+    "cesta_do_stredu_zeme_split_019.html",
+    "cesta_do_stredu_zeme_split_020.html",
+    "cesta_do_stredu_zeme_split_021.html",
+    "cesta_do_stredu_zeme_split_022.html",
+    "cesta_do_stredu_zeme_split_023.html",
+    "cesta_do_stredu_zeme_split_024.html",
+    "cesta_do_stredu_zeme_split_025.html",
+    "cesta_do_stredu_zeme_split_026.html",
+    "cesta_do_stredu_zeme_split_027.html",
+    "cesta_do_stredu_zeme_split_028.html",
+    "cesta_do_stredu_zeme_split_029.html",
+    "cesta_do_stredu_zeme_split_030.html",
+    "cesta_do_stredu_zeme_split_031.html",
+    "cesta_do_stredu_zeme_split_032.html",
+    "cesta_do_stredu_zeme_split_033.html",
+    "cesta_do_stredu_zeme_split_034.html",
+    "cesta_do_stredu_zeme_split_035.html",
+    "cesta_do_stredu_zeme_split_036.html",
+    "cesta_do_stredu_zeme_split_037.html",
+    "cesta_do_stredu_zeme_split_038.html",
+    "cesta_do_stredu_zeme_split_039.html",
+    "cesta_do_stredu_zeme_split_040.html",
+    "cesta_do_stredu_zeme_split_041.html",
+    "cesta_do_stredu_zeme_split_042.html",
+    "cesta_do_stredu_zeme_split_043.html",
+    "cesta_do_stredu_zeme_split_044.html",
+    "cesta_do_stredu_zeme_split_045.html",
+    "cesta_do_stredu_zeme_split_046.html",
+    "cesta_do_stredu_zeme_split_047.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:49:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638395392910
+    "date": "Thu May 12 2022 10:36:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351813094
   },
   "documents": [
     {
-      "title": "OBSAH • Cesta do středu Země",
+      "title": "OBSAH",
       "file": "cesta_do_stredu_zeme_split_002.html",
       "words": 98,
       "chars": 606,
@@ -34,7 +85,7 @@
       ]
     },
     {
-      "title": "PROFESOR LIDDENBROCK • Cesta do středu Země",
+      "title": "PROFESOR LIDDENBROCK",
       "file": "cesta_do_stredu_zeme_split_003.html",
       "words": 991,
       "chars": 6243,
@@ -54,7 +105,7 @@
       ]
     },
     {
-      "title": "STAROBYLÁ KNIHA • Cesta do středu Země",
+      "title": "STAROBYLÁ KNIHA",
       "file": "cesta_do_stredu_zeme_split_004.html",
       "words": 1012,
       "chars": 6225,
@@ -74,7 +125,7 @@
       ]
     },
     {
-      "title": "RUNOVÝ ZÁPIS • Cesta do středu Země",
+      "title": "RUNOVÝ ZÁPIS",
       "file": "cesta_do_stredu_zeme_split_005.html",
       "words": 1471,
       "chars": 9145,
@@ -94,7 +145,7 @@
       ]
     },
     {
-      "title": "ROZLUŠTĚNÍ • Cesta do středu Země",
+      "title": "ROZLUŠTĚNÍ",
       "file": "cesta_do_stredu_zeme_split_006.html",
       "words": 963,
       "chars": 5947,
@@ -114,7 +165,7 @@
       ]
     },
     {
-      "title": "VÁŽNÉ ROZHODNUTÍ • Cesta do středu Země",
+      "title": "VÁŽNÉ ROZHODNUTÍ",
       "file": "cesta_do_stredu_zeme_split_007.html",
       "words": 1264,
       "chars": 7723,
@@ -134,7 +185,7 @@
       ]
     },
     {
-      "title": "PŘÍPRAVY NA CESTU • Cesta do středu Země",
+      "title": "PŘÍPRAVY NA CESTU",
       "file": "cesta_do_stredu_zeme_split_008.html",
       "words": 1850,
       "chars": 11343,
@@ -154,7 +205,7 @@
       ]
     },
     {
-      "title": "ODJEZD • Cesta do středu Země",
+      "title": "ODJEZD",
       "file": "cesta_do_stredu_zeme_split_009.html",
       "words": 1425,
       "chars": 8524,
@@ -174,7 +225,7 @@
       ]
     },
     {
-      "title": "V KODANI • Cesta do středu Země",
+      "title": "V KODANI",
       "file": "cesta_do_stredu_zeme_split_010.html",
       "words": 1531,
       "chars": 9611,
@@ -194,7 +245,7 @@
       ]
     },
     {
-      "title": "NA ISLANDU • Cesta do středu Země",
+      "title": "NA ISLANDU",
       "file": "cesta_do_stredu_zeme_split_011.html",
       "words": 1573,
       "chars": 9904,
@@ -214,7 +265,7 @@
       ]
     },
     {
-      "title": "STRÝC VYZVÍDÁ • Cesta do středu Země",
+      "title": "STRÝC VYZVÍDÁ",
       "file": "cesta_do_stredu_zeme_split_012.html",
       "words": 1054,
       "chars": 6787,
@@ -234,7 +285,7 @@
       ]
     },
     {
-      "title": "ZÍSKÁVÁME VŮDCE • Cesta do středu Země",
+      "title": "ZÍSKÁVÁME VŮDCE",
       "file": "cesta_do_stredu_zeme_split_013.html",
       "words": 1348,
       "chars": 8581,
@@ -254,7 +305,7 @@
       ]
     },
     {
-      "title": "CESTA DO GARDÄRU • Cesta do středu Země",
+      "title": "CESTA DO GARDÄRU",
       "file": "cesta_do_stredu_zeme_split_014.html",
       "words": 1271,
       "chars": 7939,
@@ -274,7 +325,7 @@
       ]
     },
     {
-      "title": "DO STAPI • Cesta do středu Země",
+      "title": "DO STAPI",
       "file": "cesta_do_stredu_zeme_split_015.html",
       "words": 1288,
       "chars": 8083,
@@ -294,7 +345,7 @@
       ]
     },
     {
-      "title": "NOCLEH NA FAŘE • Cesta do středu Země",
+      "title": "NOCLEH NA FAŘE",
       "file": "cesta_do_stredu_zeme_split_016.html",
       "words": 1290,
       "chars": 7947,
@@ -314,7 +365,7 @@
       ]
     },
     {
-      "title": "VÝSTUP NA SNEFFELS • Cesta do středu Země",
+      "title": "VÝSTUP NA SNEFFELS",
       "file": "cesta_do_stredu_zeme_split_017.html",
       "words": 1267,
       "chars": 8141,
@@ -334,7 +385,7 @@
       ]
     },
     {
-      "title": "NA DNĚ KRÁTERU • Cesta do středu Země",
+      "title": "NA DNĚ KRÁTERU",
       "file": "cesta_do_stredu_zeme_split_018.html",
       "words": 1313,
       "chars": 8159,
@@ -354,7 +405,7 @@
       ]
     },
     {
-      "title": "POČÁTEK CESTY DO STŘEDU ZEMĚ • Cesta do středu Země",
+      "title": "POČÁTEK CESTY DO STŘEDU ZEMĚ",
       "file": "cesta_do_stredu_zeme_split_019.html",
       "words": 1069,
       "chars": 6367,
@@ -374,7 +425,7 @@
       ]
     },
     {
-      "title": "DALŠÍ SESTUP • Cesta do středu Země",
+      "title": "DALŠÍ SESTUP",
       "file": "cesta_do_stredu_zeme_split_020.html",
       "words": 1189,
       "chars": 7452,
@@ -394,7 +445,7 @@
       ]
     },
     {
-      "title": "HROZÍ NÁM NEDOSTATEK VODY • Cesta do středu Země",
+      "title": "HROZÍ NÁM NEDOSTATEK VODY",
       "file": "cesta_do_stredu_zeme_split_021.html",
       "words": 1067,
       "chars": 6716,
@@ -414,7 +465,7 @@
       ]
     },
     {
-      "title": "UHELNÉ SLOJE • Cesta do středu Země",
+      "title": "UHELNÉ SLOJE",
       "file": "cesta_do_stredu_zeme_split_022.html",
       "words": 1024,
       "chars": 6524,
@@ -434,7 +485,7 @@
       ]
     },
     {
-      "title": "BEZ VODY • Cesta do středu Země",
+      "title": "BEZ VODY",
       "file": "cesta_do_stredu_zeme_split_023.html",
       "words": 1018,
       "chars": 6117,
@@ -454,7 +505,7 @@
       ]
     },
     {
-      "title": "HOREČNÁ NOC • Cesta do středu Země",
+      "title": "HOREČNÁ NOC",
       "file": "cesta_do_stredu_zeme_split_024.html",
       "words": 694,
       "chars": 4328,
@@ -474,7 +525,7 @@
       ]
     },
     {
-      "title": "VODA • Cesta do středu Země",
+      "title": "VODA",
       "file": "cesta_do_stredu_zeme_split_025.html",
       "words": 1068,
       "chars": 6524,
@@ -494,7 +545,7 @@
       ]
     },
     {
-      "title": "HANSŮV POTOK • Cesta do středu Země",
+      "title": "HANSŮV POTOK",
       "file": "cesta_do_stredu_zeme_split_026.html",
       "words": 821,
       "chars": 5078,
@@ -514,7 +565,7 @@
       ]
     },
     {
-      "title": "DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY • Cesta do středu Země",
+      "title": "DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY",
       "file": "cesta_do_stredu_zeme_split_027.html",
       "words": 1050,
       "chars": 6414,
@@ -534,7 +585,7 @@
       ]
     },
     {
-      "title": "ZTRACEN V PODZEMÍ • Cesta do středu Země",
+      "title": "ZTRACEN V PODZEMÍ",
       "file": "cesta_do_stredu_zeme_split_028.html",
       "words": 635,
       "chars": 3804,
@@ -554,7 +605,7 @@
       ]
     },
     {
-      "title": "BLOUDĚNÍ • Cesta do středu Země",
+      "title": "BLOUDĚNÍ",
       "file": "cesta_do_stredu_zeme_split_029.html",
       "words": 816,
       "chars": 4875,
@@ -574,7 +625,7 @@
       ]
     },
     {
-      "title": "ZACHRÁNĚN • Cesta do středu Země",
+      "title": "ZACHRÁNĚN",
       "file": "cesta_do_stredu_zeme_split_030.html",
       "words": 1178,
       "chars": 7639,
@@ -594,7 +645,7 @@
       ]
     },
     {
-      "title": "V JESKYNI • Cesta do středu Země",
+      "title": "V JESKYNI",
       "file": "cesta_do_stredu_zeme_split_031.html",
       "words": 822,
       "chars": 4905,
@@ -614,7 +665,7 @@
       ]
     },
     {
-      "title": "LIDDENBROCKOVO MOŘE • Cesta do středu Země",
+      "title": "LIDDENBROCKOVO MOŘE",
       "file": "cesta_do_stredu_zeme_split_032.html",
       "words": 1784,
       "chars": 11398,
@@ -634,7 +685,7 @@
       ]
     },
     {
-      "title": "STAVBA PRÁMU • Cesta do středu Země",
+      "title": "STAVBA PRÁMU",
       "file": "cesta_do_stredu_zeme_split_033.html",
       "words": 1002,
       "chars": 6055,
@@ -654,7 +705,7 @@
       ]
     },
     {
-      "title": "SEN O DĚJINÁCH ZEMĚ • Cesta do středu Země",
+      "title": "SEN O DĚJINÁCH ZEMĚ",
       "file": "cesta_do_stredu_zeme_split_034.html",
       "words": 1470,
       "chars": 9180,
@@ -674,7 +725,7 @@
       ]
     },
     {
-      "title": "PŘEDPOTOPNÍ NESTVŮRY • Cesta do středu Země",
+      "title": "PŘEDPOTOPNÍ NESTVŮRY",
       "file": "cesta_do_stredu_zeme_split_035.html",
       "words": 1457,
       "chars": 9077,
@@ -694,7 +745,7 @@
       ]
     },
     {
-      "title": "AXELŮV OSTROV • Cesta do středu Země",
+      "title": "AXELŮV OSTROV",
       "file": "cesta_do_stredu_zeme_split_036.html",
       "words": 995,
       "chars": 6181,
@@ -714,7 +765,7 @@
       ]
     },
     {
-      "title": "BOUŘE • Cesta do středu Země",
+      "title": "BOUŘE",
       "file": "cesta_do_stredu_zeme_split_037.html",
       "words": 1263,
       "chars": 8155,
@@ -734,7 +785,7 @@
       ]
     },
     {
-      "title": "ZTROSKOTÁNÍ • Cesta do středu Země",
+      "title": "ZTROSKOTÁNÍ",
       "file": "cesta_do_stredu_zeme_split_038.html",
       "words": 1275,
       "chars": 7690,
@@ -754,7 +805,7 @@
       ]
     },
     {
-      "title": "PRAČLOVĚK • Cesta do středu Země",
+      "title": "PRAČLOVĚK",
       "file": "cesta_do_stredu_zeme_split_039.html",
       "words": 855,
       "chars": 5553,
@@ -774,7 +825,7 @@
       ]
     },
     {
-      "title": "PROFESOROVA PŘEDNÁŠKA • Cesta do středu Země",
+      "title": "PROFESOROVA PŘEDNÁŠKA",
       "file": "cesta_do_stredu_zeme_split_040.html",
       "words": 1264,
       "chars": 8184,
@@ -794,7 +845,7 @@
       ]
     },
     {
-      "title": "HRŮZNÉ ZJEVENÍ • Cesta do středu Země",
+      "title": "HRŮZNÉ ZJEVENÍ",
       "file": "cesta_do_stredu_zeme_split_041.html",
       "words": 1387,
       "chars": 8892,
@@ -814,7 +865,7 @@
       ]
     },
     {
-      "title": "PŘEKÁŽKA • Cesta do středu Země",
+      "title": "PŘEKÁŽKA",
       "file": "cesta_do_stredu_zeme_split_042.html",
       "words": 1177,
       "chars": 7266,
@@ -834,7 +885,7 @@
       ]
     },
     {
-      "title": "VÝBUCH • Cesta do středu Země",
+      "title": "VÝBUCH",
       "file": "cesta_do_stredu_zeme_split_043.html",
       "words": 1143,
       "chars": 7013,
@@ -854,7 +905,7 @@
       ]
     },
     {
-      "title": "V PODZEMNÍM PROUDU • Cesta do středu Země",
+      "title": "V PODZEMNÍM PROUDU",
       "file": "cesta_do_stredu_zeme_split_044.html",
       "words": 1293,
       "chars": 8104,
@@ -874,7 +925,7 @@
       ]
     },
     {
-      "title": "KRÁTER SOPKY • Cesta do středu Země",
+      "title": "KRÁTER SOPKY",
       "file": "cesta_do_stredu_zeme_split_045.html",
       "words": 1275,
       "chars": 7887,
@@ -894,7 +945,7 @@
       ]
     },
     {
-      "title": "KDE TO JSME? • Cesta do středu Země",
+      "title": "KDE TO JSME?",
       "file": "cesta_do_stredu_zeme_split_046.html",
       "words": 1291,
       "chars": 7857,
@@ -914,7 +965,7 @@
       ]
     },
     {
-      "title": "ZÁVĚR • Cesta do středu Země",
+      "title": "ZÁVĚR",
       "file": "cesta_do_stredu_zeme_split_047.html",
       "words": 767,
       "chars": 4822,
@@ -934,11 +985,11 @@
       ]
     },
     {
-      "title": "Tiráž • Cesta do středu Země",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 178,
-      "chars": 1128,
-      "ideas": 18,
+      "words": 158,
+      "chars": 968,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "cesta_do_stredu_zeme_split_047.html",
@@ -956,9 +1007,9 @@
   ],
   "totals": {
     "all": {
-      "words": 53344,
-      "chars": 332135,
-      "ideas": 2448
+      "words": 53324,
+      "chars": 331975,
+      "ideas": 2445
     },
     "chapters": {
       "words": 53158,

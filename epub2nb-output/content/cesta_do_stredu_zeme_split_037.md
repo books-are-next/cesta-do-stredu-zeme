@@ -1,5 +1,6 @@
 ---
 title: BOUŘE
+contentType: prose
 ---
 
 Pátek 21. srpna. – Nazítří nám nádherný gejzír zmizel z očí. Vítr zesílil a my jsme se rychle vzdalovali od pelová ostrova. Jeho hukot zvolna slábl.

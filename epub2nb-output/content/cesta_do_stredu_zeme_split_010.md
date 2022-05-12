@@ -1,5 +1,6 @@
 ---
 title: V KODANI
+contentType: prose
 ---
 
 Altona, hamburské předměstí, leží na konci železniční trati z Kielu. Odtud nás měl vlak odvézt na pobřeží Baltu. V necelých dvaceti minutách jsme byli na holštýnském území.

@@ -1,5 +1,6 @@
 ---
 title: KRÁTER SOPKY
+contentType: prose
 ---
 
 Ano, zbláznila se! Střelka skákala od jednoho pólu k druhému, vystřídala všechny směry větrné růžice a točila se, jako by byla stižena závratí. Věděl jsem, že podle obecně přijaté teorie není nerostná kůra zemská nikdy ve stavu absolutního klidu. Neustále je zmítána otřesy způsobenými posunem spodních vrstev a velkých tekutých proudů i vlivem zemského magnetismu, ač tvorové roztroušení na povrchu zemském nemají o těchto pohybech nejmenší tušení. Tyto jevy samy o sobě by mě ovšem byly nepoděsily a nevyvolaly v mé mysli ani jedinou strašnou představu.

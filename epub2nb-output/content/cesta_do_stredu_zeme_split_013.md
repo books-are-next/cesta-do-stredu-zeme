@@ -1,5 +1,6 @@
 ---
 title: ZÍSKÁVÁME VŮDCE
+contentType: prose
 ---
 
 Večer jsem si udělal malou vycházku po břehu u Reykjavíku a šel jsem brzy spát do postele z hrubých prken. Brzy jsem tvrdě usnul.

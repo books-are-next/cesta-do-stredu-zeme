@@ -533,7 +533,7 @@
         "Jules Verne",
         "Městská knihovna v Praze"
       ],
-      "modified": "2021-12-01T21:49:00.198Z"
+      "modified": "2013-04-09T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -903,6 +903,6 @@
       "user": "books-are-next",
       "repo": "cesta-do-stredu-zeme"
     },
-    "generatedAt": 1638395341045
+    "generatedAt": 1652351344646
   }
 }

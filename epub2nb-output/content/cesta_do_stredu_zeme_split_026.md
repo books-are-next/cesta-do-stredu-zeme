@@ -1,5 +1,6 @@
 ---
 title: HANSŮV POTOK
+contentType: prose
 ---
 
 Nazítří jsme už zapomněli na prožité útrapy. Především mě udivilo, že už nemáme žízeň, a ptal jsem se sám sebe proč. Starost o odpověď si vzal potůček, který mi tekl u nohou.

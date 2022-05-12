@@ -1,5 +1,6 @@
 ---
 title: VÁŽNÉ ROZHODNUTÍ
+contentType: prose
 ---
 
 Měl jsem jen čas položit nešťastný dokument zase na stůl.

@@ -1,5 +1,6 @@
 ---
 title: SEN O DĚJINÁCH ZEMĚ
+contentType: prose
 ---
 
 Dne 13. srpna jsme se probudili velmi brzy. Šlo o slavnostní spuštění nového, rychlého a pohodlného dopravního prostředku.

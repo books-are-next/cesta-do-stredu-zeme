@@ -1,5 +1,6 @@
 ---
 title: ZACHRÁNĚN
+contentType: prose
 ---
 
 Když jsem přišel k sobě, měl jsem mokrou tvář, ovšem mokrou od slz. Nemohu říci, jak dlouho mé bezvědomí trvalo. Neměl jsem nejmenší možnost uvědomovat si čas. Žádné osamění se nikdy nepodobalo mému, žádné opuštění nebylo tak úplné.

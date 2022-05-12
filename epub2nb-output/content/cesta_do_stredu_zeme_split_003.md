@@ -1,5 +1,6 @@
 ---
 title: PROFESOR LIDDENBROCK
+contentType: prose
 ---
 
 V neděli dne 24. května 1863 vrátil se můj strýc profesor Liddenbrock nečekaně brzy do svého domu číslo 19 v Královské třídě, jedné z nejstarších ulic starobylé hamburské čtvrti.

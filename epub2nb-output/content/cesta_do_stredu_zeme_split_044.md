@@ -1,5 +1,6 @@
 ---
 title: V PODZEMNÍM PROUDU
+contentType: prose
 ---
 
 Myslím, že bylo asi deset hodin večer. První můj smysl, který se po posledním náporu ozval, byl sluch. Zaslechl jsem totiž – a byl to skutečně vjem sluchový – že v chodbě nastalo naprosté ticho, které vystřídalo celé hodiny trvající a sluch naplňující řev. Konečně dolehl k mým uším strýcův hlas:

@@ -1,5 +1,6 @@
 ---
 title: BLOUDĚNÍ
+contentType: prose
 ---
 
 Nemohu popsat své zoufalství. Žádné slovo lidské mluvy nedokáže vyjádřit mé pocity. Byl jsem zaživa pohřben s výhledem na smrt v mukách hladu a žízně.

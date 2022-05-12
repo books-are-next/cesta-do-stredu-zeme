@@ -1,5 +1,6 @@
 ---
 title: CESTA DO GARDÄRU
+contentType: prose
 ---
 
 Vyjeli jsme za podmračného, ale stalého počasí. Nemuseli jsme se bát ani únavného horka, ani velkých lijavců. Bylo to pravé počasí pro turisty.

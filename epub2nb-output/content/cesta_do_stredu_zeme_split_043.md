@@ -1,5 +1,6 @@
 ---
 title: VÝBUCH
+contentType: prose
 ---
 
 Nazítří, ve čtvrtek 27. srpna, nastal slavný den této podzemní cesty. Pokaždé, když si na to vzpomenu, rozbuší se mi znovu srdce hrůzou. Od oné chvíle nás už neovládaly rozum, úsudek a důmysl. Stali jsme se hříčkou projevů Země.

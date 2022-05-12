@@ -1,5 +1,6 @@
 ---
 title: PŘEKÁŽKA
+contentType: prose
 ---
 
 Od počátku cesty jsem už zažil mnoho překvapení, myslel jsem si proto, že jsem obrněn proti každému údivu a že pohrdnu každým okouzlením. A přesto při pohledu na ona dvě písmena, vytesaná zde před třemi sty lety, zůstal jsem v tupém ochromení stát. Nejenže jsem četl na skále podpis učeného alchymisty, ale držel jsem nadto v ruce jeho dýku! I kdybych byl býval obzvlášť nedůvěřivý, nemohl jsem už pochybovat o existenci onoho cestovatele a o jeho skutečné cestě.

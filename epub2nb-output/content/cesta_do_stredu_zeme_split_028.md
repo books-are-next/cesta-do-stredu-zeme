@@ -1,5 +1,6 @@
 ---
 title: ZTRACEN V PODZEMÍ
+contentType: prose
 ---
 
 Musím přiznat, že až dosud šlo všecko dobře a že jsem si nemohl na nic stěžovat. Jestliže průměr obtíží nevzroste, nebudeme se moci minout s cílem.

@@ -1,5 +1,6 @@
 ---
 title: BEZ VODY
+contentType: prose
 ---
 
 Nazítří jsme vyrazili za časného rána. Musili jsme si pospíšit, čekala nás třídenní cesta k jeskyni.

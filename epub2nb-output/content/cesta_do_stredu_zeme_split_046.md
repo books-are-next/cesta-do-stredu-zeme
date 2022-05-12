@@ -1,5 +1,6 @@
 ---
 title: KDE TO JSME?
+contentType: prose
 ---
 
 Otevřel jsem oči a cítil jsem, jak mě kolem pasu svírá silná vůdcova paže.

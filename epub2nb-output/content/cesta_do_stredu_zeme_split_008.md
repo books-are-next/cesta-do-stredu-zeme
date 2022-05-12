@@ -1,5 +1,6 @@
 ---
 title: PŘÍPRAVY NA CESTU
+contentType: prose
 ---
 
 Po těchto slovech mě v celém těle zamrazilo. Ovládl jsem se však. Dokonce jsem se rozhodl tvářit vlídně. Profesora Liddenbrocka mohly zastavit jen vědecké důvody. A proti možnosti takové cesty jich bylo dost — a dobrých! Jít do středu Země? Jaká pošetilost! Nechal jsem si své argumenty na vhodnou dobu a zasedl jsem k jídlu.
