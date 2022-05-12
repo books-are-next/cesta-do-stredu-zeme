@@ -1,5 +1,6 @@
 ---
 title: HROZÍ NÁM NEDOSTATEK VODY
+contentType: prose
 ---
 
 Nazítří, dne 30. června, jsme pokračovali od šesti hodin v sestupu.

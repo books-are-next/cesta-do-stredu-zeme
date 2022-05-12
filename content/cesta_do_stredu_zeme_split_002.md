@@ -1,5 +1,6 @@
 ---
 title: OBSAH
+contentType: prose
 ---
 
 [PROFESOR LIDDENBROCK](./resources/undefined)

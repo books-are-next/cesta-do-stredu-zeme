@@ -1,5 +1,6 @@
 ---
 title: STRÝC VYZVÍDÁ
+contentType: prose
 ---
 
 Oběd byl už připraven. Profesor Liddenbrock ho pozřel nesmírně hltavě, protože nucený půst mu změnil žaludek v hlubokou propast. Oběd sám, spíš dánský než islandský, nebyl nic pozoruhodného. Ale náš hostitel, spíš islandský než dánský, mi připomínal hrdiny staré pohostinnosti. Zdálo se mi, že jsme u něho víc doma než on sám.

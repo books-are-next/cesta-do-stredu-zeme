@@ -1,5 +1,6 @@
 ---
 title: DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY
+contentType: prose
 ---
 
 Probudil jsem se v neděli ráno, tentokrát bez obvyklého spěchu a příprav na okamžitý odchod. Ač jsme byli v hluboké propasti, bylo nám docela příjemně.

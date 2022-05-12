@@ -1,5 +1,6 @@
 ---
 title: DALŠÍ SESTUP
+contentType: prose
 ---
 
 V osm hodin ráno nás probudil paprsek denního světla. Tisíce lávových plošek na stěnách jej cestou odráželo a rozptylovalo v déšť jisker. Byl to svit tak silný, že jsem v něm mohl rozeznávat okolní předměty.

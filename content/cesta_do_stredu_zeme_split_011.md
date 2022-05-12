@@ -1,5 +1,6 @@
 ---
 title: NA ISLANDU
+contentType: prose
 ---
 
 Nastal den odjezdu. Ráno nám ochotný pan Thomson přinesl nutný doporučující dopis pro islandského guvernéra barona Trampea, pro biskupova tajemníka pana Pieturssona a pro reykjavíckého starostu pana Finsena. Strýc mu oplátkou co nejvřeleji stiskl ruku.

@@ -1,5 +1,6 @@
 ---
 title: PŘEDPOTOPNÍ NESTVŮRY
+contentType: prose
 ---
 
 Sobota 15. srpna. – Kolem je všude jednotvárné moře. Žádná země v dohledu. Obzor zdánlivě ustoupil.

@@ -1,5 +1,6 @@
 ---
 title: AXELŮV OSTROV
+contentType: prose
 ---
 
 Středa 19. srpna. – Prudce vanoucí vítr nám naštěstí umožňuje prchnout rychle z bojiště. Hans je stále u kormidla. Strýc, zahloubán do úvah nad bitevní scénou oddává se opět netrpělivému pozorování moře.

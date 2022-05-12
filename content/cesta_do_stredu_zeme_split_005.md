@@ -1,5 +1,6 @@
 ---
 title: RUNOVÝ ZÁPIS
+contentType: prose
 ---
 
 Je to opravdu runové písmo,“ řekl profesor s hrozným zamračením. „Je v tom však nějaké tajemství a já je objevím, sice.

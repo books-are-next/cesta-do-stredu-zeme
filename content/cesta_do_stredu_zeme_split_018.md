@@ -1,5 +1,6 @@
 ---
 title: NA DNĚ KRÁTERU
+contentType: prose
 ---
 
 Rychle jsme zhltli večeři a naše malá skupina se usadila, jak mohla nejlépe.

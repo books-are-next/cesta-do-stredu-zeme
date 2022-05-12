@@ -1,5 +1,6 @@
 ---
 title: ROZLUŠTĚNÍ
+contentType: prose
 ---
 
 Odešel?“ zvolala Marta, která se objevila po zaskřípění přibouchnutých domovních dveří, což otřáslo celým domem.

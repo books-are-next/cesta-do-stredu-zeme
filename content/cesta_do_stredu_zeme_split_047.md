@@ -1,5 +1,6 @@
 ---
 title: ZÁVĚR
+contentType: prose
 ---
 
 To je závěr vyprávění, jemuž odepřou víru i lidé zvyklí ničemu se nedivit. Já jsem však předem obrněn vůči lidské nedůvěře.

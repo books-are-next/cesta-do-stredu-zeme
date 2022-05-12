@@ -1,5 +1,6 @@
 ---
 title: ZTROSKOTÁNÍ
+contentType: prose
 ---
 
 Zde končí to, co jsem nazval „palubním deníkem“ tak šťastně zachráněným při ztroskotání. Pokračuji v líčení jako dřív.

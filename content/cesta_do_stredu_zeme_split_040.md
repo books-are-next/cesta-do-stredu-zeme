@@ -1,5 +1,6 @@
 ---
 title: PROFESOROVA PŘEDNÁŠKA
+contentType: prose
 ---
 
 Abyste pochopili strýcovo oslovení slavných francouzských vědců, musíte vědět, že nějaký čas před naším odjezdem došlo k nesmírně důležité paleontologické události.

@@ -1,5 +1,6 @@
 ---
 title: LIDDENBROCKOVO MOŘE
+contentType: prose
 ---
 
 Zprvu jsem neviděl nic. Oči odvyklé světlu se mi rázem zavřely. Když jsem je mohl otevřít, zůstal jsem stát, spíš udiven než okouzlen.

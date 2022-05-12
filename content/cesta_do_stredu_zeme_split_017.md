@@ -1,5 +1,6 @@
 ---
 title: VÝSTUP NA SNEFFELS
+contentType: prose
 ---
 
 Sneffels je vysoký pět tisíc stop. Svými dvěma vrcholy zakončuje trachytové pásmo, které se odděluje od horského systému ostrova. Z našeho východiska jsme však nemohli vidět jeho dva štíty, rýsující se na pozadí šedého nebe. Zahlédl jsem jen velkou, nakloněnou sněhovou čapku na čele obra.

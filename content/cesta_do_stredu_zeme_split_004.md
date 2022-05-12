@@ -1,5 +1,6 @@
 ---
 title: STAROBYLÁ KNIHA
+contentType: prose
 ---
 
 Strýcova pracovna vypadala spíš jako muzeum. Byly tam všechny ukázky nerostné říše se jmenovkami, dokonale roztříděny do deseti hlavních skupin.

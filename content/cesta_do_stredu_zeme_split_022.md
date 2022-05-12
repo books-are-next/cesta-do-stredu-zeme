@@ -1,5 +1,6 @@
 ---
 title: UHELNÉ SLOJE
+contentType: prose
 ---
 
 Bylo opravdu nutné vodu dávkovat. Naše zásoby nám mohly vydržet nejvýš tři dny. To jsem zjistil večer při večeři. A nejmrzutější vyhlídkou byla naše malá naděje na objev nějakého pramene v terénu z prvohor.

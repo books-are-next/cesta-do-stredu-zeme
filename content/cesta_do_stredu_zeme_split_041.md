@@ -1,5 +1,6 @@
 ---
 title: HRŮZNÉ ZJEVENÍ
+contentType: prose
 ---
 
 Ještě půl hodiny jsme kráčeli po vrstvách kostí. Spěchali jsme vpřed, hnáni žhavou nedočkavostí. Jaké další divy jeskyně skrývá, jaké další poklady vědy tají?

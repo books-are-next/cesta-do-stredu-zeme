@@ -1,5 +1,6 @@
 ---
 title: VODA
+contentType: prose
 ---
 
 Po celou hodinu jsem si v umdlévajícím mozku představoval všechny možné důvody, které přinutily klidného lovce k jednání. Hlavou se mi honily nejšíle-nější myšlenky. Myslil jsem už, že se z toho zblázním.
