@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
+  - promo.html
   - cesta_do_stredu_zeme_split_002.html
   - cesta_do_stredu_zeme_split_003.html
   - cesta_do_stredu_zeme_split_004.html
