@@ -3,6 +3,8 @@ title: BLOUDĚNÍ
 contentType: prose
 ---
 
+<section>
+
 Nemohu popsat své zoufalství. Žádné slovo lidské mluvy nedokáže vyjádřit mé pocity. Byl jsem zaživa pohřben s výhledem na smrt v mukách hladu a žízně.
 
 Mechanicky jsem přejel horečnýma rukama po zemi. Jak se ta skála zdála suchá!
@@ -60,3 +62,5 @@ Tehdy jsem ztratil hlavu. Vstal jsem a pokoušel jsem se s nataženýma rukama o
 Volal jsem, křičel, řval. Narážel jsem na skalní výstupky, padal, znovu vstával celý zakrvácený a pokoušel se pít krev zalévající mi tvář. A přitom jsem doufal, že náhodný skalní výstupek mi postaví v cestu překážku, o niž si rozrazím hlavu.
 
 Kam mě ten šílený běh dovede? Stále jsem to nevěděl. Po mnoha hodinách, zřejmě už úplně vysílen, upadl jsem na studenou skálu boční stěny a ztratil jsem vědomí své existence.
+
+</section>

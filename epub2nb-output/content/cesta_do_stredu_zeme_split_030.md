@@ -3,6 +3,8 @@ title: ZACHRÁNĚN
 contentType: prose
 ---
 
+<section>
+
 Když jsem přišel k sobě, měl jsem mokrou tvář, ovšem mokrou od slz. Nemohu říci, jak dlouho mé bezvědomí trvalo. Neměl jsem nejmenší možnost uvědomovat si čas. Žádné osamění se nikdy nepodobalo mému, žádné opuštění nebylo tak úplné.
 
 Po pádu jsem ztratil mnoho krve. Cítil jsem, že mě celého zaplavuje. Ach, jak jsem teď litoval, že jsem nezemřel! A co taky dělat? Přemožen bolestí, zapudil jsem všechny myšlenky a skulil jsem se ke stěně.
@@ -194,3 +196,5 @@ Vstal jsem tedy. Spíš jsem se vlekl, než šel. Svah klesal dost prudce. Klouz
 Brzy rychlost mého sestupu vzrostla tak, že mi hrozila změnou v pád. Ne-měl jsem už sílu zastavit se.
 
 Náhle mi půda pod nohama zmizela. Cítil jsem, jak v letu narážím na výčnělky svislé šachty. Vrazil jsem hlavou na ostrou skálu a ztratil jsem vědomí.
+
+</section>

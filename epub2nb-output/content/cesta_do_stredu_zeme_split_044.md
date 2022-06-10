@@ -3,6 +3,8 @@ title: V PODZEMNÍM PROUDU
 contentType: prose
 ---
 
+<section>
+
 Myslím, že bylo asi deset hodin večer. První můj smysl, který se po posledním náporu ozval, byl sluch. Zaslechl jsem totiž – a byl to skutečně vjem sluchový – že v chodbě nastalo naprosté ticho, které vystřídalo celé hodiny trvající a sluch naplňující řev. Konečně dolehl k mým uším strýcův hlas:
 
 „Stoupáme!“
@@ -136,3 +138,5 @@ Zprvu temná a nejasná myšlenka se mi v hlavě měnila v jistotu. Odmítal jse
 A pak to hrozné vedro a ta vařící voda! Rozhodl jsem se podívat na busolu.
 
 Zřejmě se zbláznila!
+
+</section>

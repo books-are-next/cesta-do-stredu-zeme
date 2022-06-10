@@ -3,6 +3,8 @@ title: ZÁVĚR
 contentType: prose
 ---
 
+<section>
+
 To je závěr vyprávění, jemuž odepřou víru i lidé zvyklí ničemu se nedivit. Já jsem však předem obrněn vůči lidské nedůvěře.
 
 Strombolští rybáři nás přijali s patřičnými ohledy vůči trosečníkům. Dali nám oděv i jídlo. Po osmačtyřicetihodinovém čekání nás 31. srpna převezl jednostěžník do Messiny, kde jsme se po několikadenním odpočinku zbavili vší únavy.
@@ -84,3 +86,5 @@ Od toho dne byl profesor Liddenbrock nejšťastnějším ze všech vědců a já
 ujala v domě na Královské třídě postavení neteře a manželky. Nemusím snad dodávat, že jejím strýcem se stal slavný profesor Otto Liddenbrock, člen kore
 
 spondent všech vědeckých a mineralogických společností pěti dílů světa.
+
+</section>

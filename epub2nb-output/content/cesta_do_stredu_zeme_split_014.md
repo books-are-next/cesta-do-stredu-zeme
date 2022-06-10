@@ -3,6 +3,8 @@ title: CESTA DO GARDÄRU
 contentType: prose
 ---
 
+<section>
+
 Vyjeli jsme za podmračného, ale stalého počasí. Nemuseli jsme se bát ani únavného horka, ani velkých lijavců. Bylo to pravé počasí pro turisty.
 
 Radost z jízdy na koni neznámou krajinou mi ulehčila počátek našeho dobrodružství. Pocítil jsem plně štěstí cestovatele, složené z touhy po poznání a z volnosti. Začínal jsem se s celou tou záležitostí smiřovat.
@@ -92,3 +94,5 @@ Chápal jsem dobře nutnost počkat na určitý stav přílivu k plavbě přes f
 A sice na chvíli, kdy moře při vrcholícím přílivu je nejtišší. Pak je proud od moře i k moři téměř neznatelný a pramice nemůže být stržena ani do hloubi zálivu, ani do oceánu.
 
 Příhodná chvíle nastala až v šest hodin večer. Strýc, já, vůdce a čtyři koně s nákladem zaujali místa na ploché a dost vratké pramici. Byl jsem zvyklý na labské parní přívozy, a tak jsem převozníkova vesla pokládal za mechanizaci velmi břídilskou. K plavbě přes fjord jsme potřebovali celou hodinu. Ale i tato cesta konečně bez zvláštních příhod skončila. Za půl hodiny jsme už byli v Gardäru.
+
+</section>

@@ -3,6 +3,8 @@ title: PROFESOR LIDDENBROCK
 contentType: prose
 ---
 
+<section>
+
 V neděli dne 24. května 1863 vrátil se můj strýc profesor Liddenbrock nečekaně brzy do svého domu číslo 19 v Královské třídě, jedné z nejstarších ulic starobylé hamburské čtvrti.
 
 Dobrácká Marta musela být přesvědčena, že se hrozně opozdila, protože na kuchyňských kamnech začal oběd syčet teprve před chvílí.
@@ -66,3 +68,5 @@ Doznávám se, že jsem se s chutí zakousl do geologických věd. Měl jsem v �
 Celkem jsme v domě na Královské třídě mohli žít docela šťastně, přes časté výbuchy jeho majitele, který se choval někdy drsně, ale neměl mě tím o nic méně rád. Neuměl však nikdy čekat a vždycky neobyčejně spěchal. Když v dubnu vysadil do květináčů v pokoji sazeničky rezedy a svlačce, chodil je každý den popotahovat za lístky, aby květiny rychleji rostly.
 
 Tak originálního člověka jsem musel poslechnout, a proto jsem se rozběhl do jeho pracovny.
+
+</section>

@@ -3,6 +3,8 @@ title: VODA
 contentType: prose
 ---
 
+<section>
+
 Po celou hodinu jsem si v umdlévajícím mozku představoval všechny možné důvody, které přinutily klidného lovce k jednání. Hlavou se mi honily nejšíle-nější myšlenky. Myslil jsem už, že se z toho zblázním.
 
 Ale v hloubi propasti se konečně ozval zvuk kroků. Hans vystupoval nahoru. Po stěnách se plížilo nejasné světlo a náhle se vyhouplo z ústí chodby. Hans se objevil.
@@ -130,3 +132,5 @@ Octl jsem se na rozpacích, neznaje pravý důvod.
 „Něco lepšího, strýčku! Už tomu rozumím.“
 
 „Okamžik ještě! Začneme několikahodinovým odpočinkem!“ Opravdu jsem zapomněl, že je noc. Chronometr mi to připomněl. Brzy jsme všichni dostatečně posíleni a osvěženi upadli do hlubokého spánku.
+
+</section>

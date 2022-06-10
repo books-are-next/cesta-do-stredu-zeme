@@ -3,6 +3,8 @@ title: BOUŘE
 contentType: prose
 ---
 
+<section>
+
 Pátek 21. srpna. – Nazítří nám nádherný gejzír zmizel z očí. Vítr zesílil a my jsme se rychle vzdalovali od pelová ostrova. Jeho hukot zvolna slábl.
 
 Počasí – pokud se dá mluvit o počasí – se trochu mění. Ovzduší je nasyceno párami, které přinášejí elektřinu, vzniklou vypařováním slané vody. Mraky se viditelné snižují a nabývají olivového zbarvení. Elektrické světlo jen těžce proniká průsvitnou clonou spuštěnou nad jevištěm, na němž dojde k bouřnému dramatu.
@@ -126,3 +128,5 @@ Ozval se nový hluk. Opravdu! Je to hukot moře tříštícího se o skaliska! A
 .………………….…………………………………………………………………………………………………….…
 
 …………………………………..……………………………………………………………………………………
+
+</section>

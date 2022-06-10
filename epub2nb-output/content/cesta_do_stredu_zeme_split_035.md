@@ -3,6 +3,8 @@ title: PŘEDPOTOPNÍ NESTVŮRY
 contentType: prose
 ---
 
+<section>
+
 Sobota 15. srpna. – Kolem je všude jednotvárné moře. Žádná země v dohledu. Obzor zdánlivě ustoupil.
 
 „Mám pod vlivem svého snění ještě těžkou hlavu. Strýc nesnil, ale má taky špatnou náladu. Rozhlíží se dalekohledem na všechny strany a znechuceně pak zakládá ruce.
@@ -124,3 +126,5 @@ Uplynula hodina, uplynula druhá. Zápas pokračuje se stejnou úporností.
 Bojovníci se přibližují k prámu a zase se vzdalují. Zůstáváme nehybní, připraveni ke střelbě. Náhle Ichtyosaurus i Plesiosaurus mizí a vytvářejí na vodě obrovský vír. Bude snad zápas dokončen v mořských hlubinách?
 
 Vtom se nad hladinu vymrští obrovská hlava Plesiosaura. Netvor je smrtelně zraněn. Nevidím už jeho štít. Jen dlouhý krk se zmítá, kroutí se, ohýbá, klesá, bičuje vodu jako gigantický bič a kroutí se jako přeražený červ. Voda stříká nesmírně daleko. Oslepuje nás. Ale agónie zvířete zvolna končí, jeho pohyby slábnou, křečovité záchvěvy se utišují a dlouhý hadí trup se natahuje na uklidněné hladině jako nehybná hmota. Co se však stalo s Ichtyosaurem? Odplul do své podmořské jeskyně, nebo se zas objeví na vodní hladině?
+
+</section>

@@ -3,6 +3,8 @@ title: VÝSTUP NA SNEFFELS
 contentType: prose
 ---
 
+<section>
+
 Sneffels je vysoký pět tisíc stop. Svými dvěma vrcholy zakončuje trachytové pásmo, které se odděluje od horského systému ostrova. Z našeho východiska jsme však nemohli vidět jeho dva štíty, rýsující se na pozadí šedého nebe. Zahlédl jsem jen velkou, nakloněnou sněhovou čapku na čele obra.
 
 Kráčeli jsme za sebou s lovcem v čele. Ten stoupal úzkou stezkou, na níž by dvě osoby vedle sebe neprošly. Hovor se tím stal téměř nemožným.
@@ -88,3 +90,5 @@ Hans však nepokládal za opatrné strávit noc na svahu kužele. Pokračovali j
 Umíral jsem zimou a hladem. Poněkud zřídlý vzduch nestačil už nárokům našich plic.
 
 Konečně v jedenáct hodin večer jsme došli za úplné tmy na vrchol Sneffelsu. Dříve než jsem se skryl uvnitř kráteru, mohl jsem ještě pozorovat půlnoční slunce na nejnižším bodě jeho dráhy. Vysílalo své bledé paprsky na ostrov, spící pod mýma nohama.
+
+</section>

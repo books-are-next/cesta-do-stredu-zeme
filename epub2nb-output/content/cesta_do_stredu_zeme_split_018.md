@@ -3,6 +3,8 @@ title: NA DNĚ KRÁTERU
 contentType: prose
 ---
 
+<section>
+
 Rychle jsme zhltli večeři a naše malá skupina se usadila, jak mohla nejlépe.
 
 Noc byla zlá, přístřeší nedostatečné, situace ve výši pěti tisíc stop nad mořem velmi žalostná. A přesto jsem po celou noc docela klidně spal. Byla to nejklidnější noc za celou tu dlouhou dobu. Ani se mi nic nezdálo.
@@ -102,3 +104,5 @@ V poledne, kdy byl nejkratší, dotkl se lehce kraje prostřední chodby.
 „Vpřed!“ opakoval strýc.
 
 Byla jedna hodina a třináct minut odpoledne.
+
+</section>

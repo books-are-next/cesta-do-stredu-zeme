@@ -3,6 +3,8 @@ title: SEN O DĚJINÁCH ZEMĚ
 contentType: prose
 ---
 
+<section>
+
 Dne 13. srpna jsme se probudili velmi brzy. Šlo o slavnostní spuštění nového, rychlého a pohodlného dopravního prostředku.
 
 Ze dvou tyčí jsme zhotovili stožár, z třetí tyče vyrobili veslo a z přikrývek plachtu. To byla výstroj prámu. Provazů jsme měli dost. Celek byl velmi pevný.
@@ -126,3 +128,5 @@ Zároveň mě zachytává silná Hansova ruka. Bez jeho zásahu bych se byl zř�
 „Ano. Máme příznivý vítr a klidné moře. Plujeme rychle, a nemýlím-li se ve svém odhadu, brzy už přistaneme.“
 
 Po těchto slovech vstávám a pozoruji obzor. Ale linie vod stále splývá s linií mraků.
+
+</section>

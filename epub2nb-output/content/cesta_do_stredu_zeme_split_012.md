@@ -3,6 +3,8 @@ title: STRÝC VYZVÍDÁ
 contentType: prose
 ---
 
+<section>
+
 Oběd byl už připraven. Profesor Liddenbrock ho pozřel nesmírně hltavě, protože nucený půst mu změnil žaludek v hlubokou propast. Oběd sám, spíš dánský než islandský, nebyl nic pozoruhodného. Ale náš hostitel, spíš islandský než dánský, mi připomínal hrdiny staré pohostinnosti. Zdálo se mi, že jsme u něho víc doma než on sám.
 
 Rozhovor byl veden v domácím jazyku, do něhož strýc mísil němčinu a pan Fridriksson latinu, abych jim rozuměl. Jak se na vědce sluší, hovořili o vědeckých otázkách. Profesor Liddenbrock však byl velmi zdrženlivý a očima mi při každé větě doporučoval, abych pomlčel o našich příštích plánech.
@@ -138,3 +140,5 @@ Tato část hovoru byla vedena latinsky. Rozuměl jsem všemu a jen stěží jse
 „Zítra tedy,“ odpověděl strýc s povzdechem.
 
 Tento důležitý rozhovor skončil za několik minut poté srdečným poděkováním německého profesora profesoru islandskému. Během oběda se strýc dověděl mnoho důležitého, mezi jiným i Saknussemmův příběh a důvod k napsání tajuplného dokumentu. Zjistil taky, že ho hostitel na jeho výpravě nebude doprovázet a zítra že tu bude k jeho službám vůdce.
+
+</section>

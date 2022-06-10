@@ -3,6 +3,8 @@ title: OBSAH
 contentType: prose
 ---
 
+<section>
+
 [PROFESOR LIDDENBROCK](./resources/undefined)
 
 [STAROBYLÁ KNIHA](./resources/undefined)
@@ -92,3 +94,5 @@ contentType: prose
 [KDE TO JSME?](./resources/undefined)
 
 [ZÁVĚR](./resources/undefined)
+
+</section>

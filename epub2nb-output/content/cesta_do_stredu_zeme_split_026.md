@@ -3,6 +3,8 @@ title: HANSŮV POTOK
 contentType: prose
 ---
 
+<section>
+
 Nazítří jsme už zapomněli na prožité útrapy. Především mě udivilo, že už nemáme žízeň, a ptal jsem se sám sebe proč. Starost o odpověď si vzal potůček, který mi tekl u nohou.
 
 Nasnídali jsme se a napili výborné železité vody. Byl jsem plně posílen a odhodlán jít dál. Proč by neměl mít úspěch člověk tak sebejistý jako strýc, s vůdcem tak důmyslným jako Hans a se synovcem tak „odhodlaným“ jako já? Takové myšlenky mi vířily hlavou. Kdyby mi byl někdo navrhl návrat do Sneffelsu, byl bych to s rozhořčením odmítl. Naštěstí teď šlo jen o sestup dolů.
@@ -70,3 +72,5 @@ Profesor mohl pokládat naše postavení za docela prosté. Mne však nepřestá
 Po čtyřech dnech, v sobotu 19. července večer, přišli jsme do značně velké jeskyně. Strýc tam vyplatil Hansovi obvyklé týdenní tři rixdaly a rozhodl, že zít-
 
 řejší den bude dnem odpočinku.
+
+</section>

@@ -3,6 +3,8 @@ title: BEZ VODY
 contentType: prose
 ---
 
+<section>
+
 Nazítří jsme vyrazili za časného rána. Musili jsme si pospíšit, čekala nás třídenní cesta k jeskyni.
 
 Nebudu čtenáře zatěžovat líčením útrap zpáteční cesty. Strýc je snášel se vztekem člověka, který se už necítí příliš silným, a Hans s odevzdaností své mírné povahy. Já se přiznávám, že jsem naříkal a ztrácel odvahu. Nedokázal jsem čelit nepřízni osudu.
@@ -98,3 +100,5 @@ Je však možné, že budeme šťastnější, pustíme-li se chodbou západní.�
 Přes své podráždění jsem byl dojat těmito slovy i úsilím, které strýc vynaložil na takový proslov.
 
 "Nuže, ať je tedy po vašem," zvolal jsem. "Kéž byste byl za svou nadlidskou energii odměněn! Máte jen několik hodin na pokoušení osudu. Vzhůru tedy!"
+
+</section>

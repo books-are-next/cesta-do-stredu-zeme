@@ -3,6 +3,8 @@ title: RUNOVÝ ZÁPIS
 contentType: prose
 ---
 
+<section>
+
 Je to opravdu runové písmo,“ řekl profesor s hrozným zamračením. „Je v tom však nějaké tajemství a já je objevím, sice.
 
 Jeho větu zakončilo prudké gesto.
@@ -130,3 +132,5 @@ Přiznávám se, že jsem byl nakonec velmi vzrušen, ale ani takto seřazená p
 Kdo by byl mohl předvídat, že v této chvíli zahřmí silná rána do stolní desky! Inkoust vystříkl a pero mi vypadlo z ruky.
 
 „To není ono!“ křičel strýc. „Nemá to žádný smysl!“ Pak začal jako koule létat po pracovně, vyřítil se jako lavina na schody, vrhl se do Královské třídy a tryskem zmizel.
+
+</section>

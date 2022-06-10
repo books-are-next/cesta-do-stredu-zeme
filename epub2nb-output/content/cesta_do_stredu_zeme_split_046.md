@@ -3,6 +3,8 @@ title: KDE TO JSME?
 contentType: prose
 ---
 
+<section>
+
 Otevřel jsem oči a cítil jsem, jak mě kolem pasu svírá silná vůdcova paže.
 
 Druhou rukou podpíral Hans strýce. Nebyl jsem nijak vážně zraněn, spíš celý jako rozlámaný. Viděl jsem, že ležím na svahu nějaké hory, dva kroky od propasti, do níž by mě nejmenší pohyb svrhl. Užuž jsem se řítil po svahu kráteru, ale Hans mě před jistou smrtí zachránil.
@@ -126,3 +128,5 @@ Prošli jsme olivovým hájem a za hodinu jsme dorazili do přístavu San Vincen
 Jestliže se snad v té chvíli s námi nepodílel na pochopitelném vzrušení, dal aspoň najevo výraz neobyčejné sdílnosti.
 
 Konečky prstů stiskl lehce naše ruce a usmál se.
+
+</section>

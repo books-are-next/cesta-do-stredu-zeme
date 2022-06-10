@@ -3,6 +3,8 @@ title: ODJEZD
 contentType: prose
 ---
 
+<section>
+
 Tak skončil náš pamětihodný rozhovor. Rozpálil mne. Vyšel jsem ze strýcovy pracovny jako omámený, a protože v hamburských ulicích nebylo pro mne dost vzduchu, vydal jsem se na břeh Labe k parnímu přívozu, který spojuje město s hamburským nádražím.  
   
 
@@ -153,3 +155,5 @@ V té chvíli strýc právě slavnostně odevzdával Gretě „otěže“ domu. 
 „Jdi, drahý Axele,“ řekla mi. „Opouštíš svou nevěstu, ale po návratu tu najdeš svou ženu!“
 
 Sevřel jsem Gretu v náručí a usadil se ve voze. Marta a Greta nám z prahu domu posílaly poslední pozdravy. Kočí pak zapísknutím pobídl oba koně. Klusem se vydali k altonské silnici.
+
+</section>

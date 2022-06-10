@@ -3,6 +3,8 @@ title: STAVBA PRÁMU
 contentType: prose
 ---
 
+<section>
+
 Nazítří jsem se probudil zcela zdráv. Napadlo mi, že by mi velmi posloužila lázeň, a tak jsem se šel na několik minut ponořit do tohoto „Středozemního moře“. Takového jména si rozhodně zasluhovalo.
 
 Vrátil jsem se vyhladovělý k snídani. Hans se dokonale vyznal v přípravě jídel. Měl tu nyní po ruce vodu i oheň, takže mohl vnést do jednotvárného jídelníčku trochu změny. Po jídle nám nabídl několik číšek kávy. Nikdy mi ten jemný nápoj nepřipadal příjemnější a chutnější.
@@ -148,3 +150,5 @@ Dřevo zmizelo pod hladinou, ale pak se vyhouplo nad vodu a kolébalo se na vln�
 Nazítří večer byl prám díky lovcově obratnosti hotov. Byl deset stop dlouhý a pět stop široký. Trámy byly spojeny silnými lany a vytvořily tak pevný celek.
 
 Když bylo naše improvizované plavidlo spuštěno na vodu, plulo klidně po hladině Liddenbrockova moře.
+
+</section>

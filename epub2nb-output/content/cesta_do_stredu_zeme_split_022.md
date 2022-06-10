@@ -3,6 +3,8 @@ title: UHELNÉ SLOJE
 contentType: prose
 ---
 
+<section>
+
 Bylo opravdu nutné vodu dávkovat. Naše zásoby nám mohly vydržet nejvýš tři dny. To jsem zjistil večer při večeři. A nejmrzutější vyhlídkou byla naše malá naděje na objev nějakého pramene v terénu z prvohor.
 
 Po celý další den rozvíjela před námi chodba svá nekonečná loubí. Kráčeli jsme téměř beze slova. Hansova mlčenlivost nás nakazila.
@@ -78,3 +80,5 @@ Už jsem ji počal pokládat za nekonečnou. Náhle v šest hodin se před námi
 „A odvaha taky?“ řekl profesor s přísným pohledem.
 
 Neodvážil jsem se odpovědět.
+
+</section>

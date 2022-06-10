@@ -3,6 +3,8 @@ title: POČÁTEK CESTY DO STŘEDU ZEMĚ
 contentType: prose
 ---
 
+<section>
+
 Opravdová cesta začala. Až dosud jsme – byť s námahou – zmohli všechny obtíže. Ty se však teď budou pod našima nohama přímo rojit.
 
 Já jsem se doposud nepodíval do nezměřitelné jámy, kam jsme se měli vnořit. Teď ta chvíle přišla. Ještě jsem se mohl rozhodnout. Buď se výpravy zúčastnit, nebo ten pokus odmítnout. Styděl jsem se však couvnout v přítomnosti lovce. Hans přijal dobrodružství zcela klidně, s naprostou lhostejností a s úplným nezájmem o všechna nebezpečí. Zarděl jsem se při pouhém pomyšlení, že bych byl méně statečný než on. Připravil jsem si sice dlouhou řadu námitek, ale před vůdcem jsem mlčel. Jedna z mých vzpomínek zalétla ke Gretě. Ale to jsem už vstoupil do prostřední chodby.
@@ -100,3 +102,5 @@ Byla to nějaká hvězda, zbavená všeho jiskření. Odhadoval jsem, že to je 
 ta hvězda ze souhvězdí Malého vozu.
 
 Pak jsem usnul těžkým spánkem.
+
+</section>

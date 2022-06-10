@@ -3,6 +3,8 @@ title: PROFESOROVA PŘEDNÁŠKA
 contentType: prose
 ---
 
+<section>
+
 Abyste pochopili strýcovo oslovení slavných francouzských vědců, musíte vědět, že nějaký čas před naším odjezdem došlo k nesmírně důležité paleontologické události.
 
 Dne 28. března 1863 lamači kamene, pracující pod vedením Bouchera de Perthes v lomech Moulin-Quignon u Abbeville v departementu Somme ve Francii, našli čtrnáct stop pod povrchem země lidskou čelist. Byl to první fosilní zbytek tohoto druhu vynesený na denní světlo. U něho se našly kamenné sekery a opracovaný barevny pazourek, potažený během věků jednobarevnou patinou.
@@ -72,3 +74,5 @@ Jiný důkaz. Toto fosilní tělo nebylo v obrovské kostnici jediné. Na každ�
 Byla to opravdu úžasná podívaná na celé generace lidí a zvířat, nahromaděných na tomto hřbitově. Ale naskýtá se tu vážná otázka, kterou jsme se neodvažovali odpovědět. Sesunuli se tito živočichové posunem kůry zemské na břeh Liddenbrockova moře, až když už byli změněni v prach? Nebo spíš žili tady, v tomto jeskynním světě, pod tímto umělým nebem, rodili se a umírali jako obyvatelé Země? Až dosud jsme spatřili z živých tvorů jen mořské nestvůry a ryby.
 
 Bloudí snad po těchto pustých březích ještě nějaký hlubinný člověk?
+
+</section>
