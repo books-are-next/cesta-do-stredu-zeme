@@ -3,6 +3,8 @@ title: ZÍSKÁVÁME VŮDCE
 contentType: prose
 ---
 
+<section>
+
 Večer jsem si udělal malou vycházku po břehu u Reykjavíku a šel jsem brzy spát do postele z hrubých prken. Brzy jsem tvrdě usnul.
 
 Když jsem se probudil, slyšel jsem strýce v sousední místnosti hlasitě hovořit. Hned jsem vstal a pospíšil jsem za ním.
@@ -80,3 +82,5 @@ V pět hodin ráno mě probudilo ržání čtyř koní, kteří dupali pod mým 
 V šest hodin bylo všechno hotovo. Pan Fridriksson nám se-vřel ruce. Strýc mu co nejsrdečněji poděkoval za blahovolné pohostinství. Já ze sebe vypravil upřímné pozdravy ve své nejlepší latině. Pak jsme vsedli do sedel a pan Fridriksson nám na rozloučenou ocitoval verše, které jako by Vergilius složil přímo na nás, na cestovatele nejisté si svou cestou: Et quacumque viam dederit fortuna, sequamur\*.
 
 \* A kdekoli štěstěna až cestu ukáže, dejme se po ní.
+
+</section>

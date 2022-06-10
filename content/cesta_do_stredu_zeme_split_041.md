@@ -3,6 +3,8 @@ title: HRŮZNÉ ZJEVENÍ
 contentType: prose
 ---
 
+<section>
+
 Ještě půl hodiny jsme kráčeli po vrstvách kostí. Spěchali jsme vpřed, hnáni žhavou nedočkavostí. Jaké další divy jeskyně skrývá, jaké další poklady vědy tají?
 
 Můj pohled byl připraven na každé překvapení, má představivost na každý úžas.
@@ -110,3 +112,5 @@ Moře tam takřka omývalo úpatí předhoří, nechávajíc sotva na sáh širo
 Tam se na žulové desce objevila dvě tajemná, napůl vyhlodaná písmena, dvě počáteční písmena odvážného a fantastického cestovatele:
 
 ,,A. S.!" vykřikl strýc. ,,Arne Saknussemm! Stále ten Arne Saknussemm !"
+
+</section>

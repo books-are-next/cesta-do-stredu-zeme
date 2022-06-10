@@ -3,6 +3,8 @@ title: DO STAPI
 contentType: prose
 ---
 
+<section>
+
 Měla už být noc, ale na pětašedesáté rovnoběžce nesmí v polárních krajinách denní světlo v této době nikoho překvapit. Na Islandu v červnu a v červenci slunce nezapadá.
 
 Teplota nicméně poklesla. Bylo mi zima a především jsem měl hlad. Blahořečili jsme stavení, které se pohostinsky otevřelo, aby nás přijalo.
@@ -74,3 +76,5 @@ V sobotu 20. června v šest hodin večer jsme dojeli do Büdiru. Je to vesnice 
 Půda už prozrazovala blízkost hory. Její žulový podklad vystupoval místy na povrch jako kořeny starého dubu. Objeli jsme celé obrovské úpatí sopky. Strýc ji nespouštěl z očí. Mával rukama, jako by ji vyzýval a říkal jí: Tebe, obře, zkrotím!
 
 Konečně po čtyřiadvacetihodinové cestě se koně sami zastavili přede dveřmi fary ve Stapi.
+
+</section>

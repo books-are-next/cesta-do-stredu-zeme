@@ -3,6 +3,8 @@ title: KRÁTER SOPKY
 contentType: prose
 ---
 
+<section>
+
 Ano, zbláznila se! Střelka skákala od jednoho pólu k druhému, vystřídala všechny směry větrné růžice a točila se, jako by byla stižena závratí. Věděl jsem, že podle obecně přijaté teorie není nerostná kůra zemská nikdy ve stavu absolutního klidu. Neustále je zmítána otřesy způsobenými posunem spodních vrstev a velkých tekutých proudů i vlivem zemského magnetismu, ač tvorové roztroušení na povrchu zemském nemají o těchto pohybech nejmenší tušení. Tyto jevy samy o sobě by mě ovšem byly nepoděsily a nevyvolaly v mé mysli ani jedinou strašnou představu.
 
 Byly zde však jiné projevy, jisté podrobnosti, které mě nemohly nechat dlouho na pochybách. Ozývalo se zde se stoupající silou stále častější rachocení.
@@ -122,3 +124,5 @@ Nevím, kolikrát se to opakovalo. Mohu jen uvést, že při každém novém vym
 Na to, co se dělo v dalších hodinách, nezachovala se mi přesná vzpomínka.
 
 Jen zmateně jsem vnímal neustálé výbuchy, otřesy masívu a krouživý pohyb, kterým byl prám stržen. Točil se na lávových vlnách v hustém dešti popela. Obklopovaly nás žíravé plameny. Vichr, jakoby buzený obrovským měchem, oživoval podzemní oheň. V jeho odlescích se mi naposled objevila Hansova tvář a mou jedinou myšlenkou zůstal chmurný pocit odsouzenců přivázaných k ústí děl, pocit chvíle, kdy vychází rána a roztrhává údy do všech stran.
+
+</section>

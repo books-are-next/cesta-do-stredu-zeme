@@ -3,6 +3,8 @@ title: PŘÍPRAVY NA CESTU
 contentType: prose
 ---
 
+<section>
+
 Po těchto slovech mě v celém těle zamrazilo. Ovládl jsem se však. Dokonce jsem se rozhodl tvářit vlídně. Profesora Liddenbrocka mohly zastavit jen vědecké důvody. A proti možnosti takové cesty jich bylo dost — a dobrých! Jít do středu Země? Jaká pošetilost! Nechal jsem si své argumenty na vhodnou dobu a zasedl jsem k jídlu.
 
 Nemusím snad uvádět strýcovy kletby u neprostřeného stolu. Vše se však vysvětlilo. Dobrá Marta získala zas svobodu. Rozběhla se na tržiště a činila se tak dobře, že za hodinu byl náš hlad utišen a já se mohl vrátit k naší záležitosti.
@@ -154,3 +156,5 @@ ce, a tak by dvakrát denně vytvářela vnitřní příliv a odliv, který by z
 ,Ano,“ řekl jsem, ,,i to je docela možné.“
 
 „To je jisté,“ odpověděl vítězně strýc. „Tiše však, rozumíš? Nikomu ani muk, aby někoho nenapadlo vniknout do středu Země před námi!“
+
+</section>

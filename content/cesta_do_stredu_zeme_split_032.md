@@ -3,6 +3,8 @@ title: LIDDENBROCKOVO MOŘE
 contentType: prose
 ---
 
+<section>
+
 Zprvu jsem neviděl nic. Oči odvyklé světlu se mi rázem zavřely. Když jsem je mohl otevřít, zůstal jsem stát, spíš udiven než okouzlen.
 
 „Moře!“ zvolal jsem.
@@ -118,3 +120,5 @@ Ale tato iluze rychle zmizela. Byli jsme opravdu jedinými živými tvory v tomt
 Strýc o tom aspoň nepochyboval. Já jsem po tom toužil a zároveň se toho bál.
 
 Po hodině strávené pozorováním tohoto úžasného divadla jsme se vydali po pobřeží na cestu zpět do jeskyně, kde jsem s hlavou plnou nejpodivnějších myšlenek upadl do hlubokého spánku.
+
+</section>

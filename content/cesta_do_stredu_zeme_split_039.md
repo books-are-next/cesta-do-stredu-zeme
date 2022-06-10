@@ -3,6 +3,8 @@ title: PRAČLOVĚK
 contentType: prose
 ---
 
+<section>
+
 Nemohu popsat pocity, které prožíval profesor Liddenbrock. Jeho překvapení, nedůvěru a nakonec vztek. Nikdy jsem neviděl člověka tak vyvedeného z míry a potom tak rozzuřeného. Únava z přeplavby, prožitá nebezpečí, to vše mělo začít znova! Místo vpřed pluli jsme vzad!
 
 Strýc se však rychle vzpamatoval.
@@ -60,3 +62,5 @@ Hnala nás netrpělivá zvědavost. Naše nohy s praskotem drtily zbytky prehist
 "Lidská lebka, strýčku?" odpověděl jsem s nemenším údivem.
 
 ,,Ano, chlapče! Ach pane Milne-Edwardsi, ach pane Quatre - fagesi, jaká škoda, že nejste tam, kde jsem teď já, Otto Liddenbrock!"
+
+</section>

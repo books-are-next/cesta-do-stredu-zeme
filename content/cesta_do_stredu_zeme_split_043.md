@@ -3,6 +3,8 @@ title: VÝBUCH
 contentType: prose
 ---
 
+<section>
+
 Nazítří, ve čtvrtek 27. srpna, nastal slavný den této podzemní cesty. Pokaždé, když si na to vzpomenu, rozbuší se mi znovu srdce hrůzou. Od oné chvíle nás už neovládaly rozum, úsudek a důmysl. Stali jsme se hříčkou projevů Země.
 
 V šest hodin jsme byli vzhůru. Blížil se okamžik, v němž jsme si měli otevřít náloží cestu do žulového masívu. Žádal jsem, abych byl poctěn zapálením doutnáku. Až se tak stane, měl jsem si pospíšit za svými společníky k prámu, který nebyl dosud vyložen. Na něm jsme měli vyplout na širé moře, abychom se vyhnuli nebezpečným důsledkům výbuchu, jehož účin uvnitř žulového masívu nemohl selhat.
@@ -76,3 +78,5 @@ V této chvíli počala lampa slábnout a pak úplně zhasla. Knot dohořel až 
 Po delší době se rychlost naší plavby ještě zvětšila. Zjistil jsem to podle nárazů vzduchu do tváře. Spád vody byl strašný. Byl jsem přesvědčen, že už neplujeme, nýbrž padáme. Měl jsem dojem téměř svislého pádu. Strýcovy a Hansovy ruce mě pevně držely.
 
 Náhle jsem po nevímjak dlouhé době ucítil náraz. Prám sice nenarazil na tvrdý předmět, ale presto se najednou prudce zastavil. Dopadl na něj vodní vír, obrovská tekutá smršť. Dusil jsem se. Topil jsem se. Bohudíky ta prudká záplava netrvala dlouho. V několika vteřinách jsem zase z plných plic vdechoval volný vzduch. Strýc a Hans mi svírali ruce, div mi je nezlomili. A prám nás unášel všechny tři dál.
+
+</section>

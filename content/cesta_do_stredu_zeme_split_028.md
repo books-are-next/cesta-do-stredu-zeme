@@ -3,6 +3,8 @@ title: ZTRACEN V PODZEMÍ
 contentType: prose
 ---
 
+<section>
+
 Musím přiznat, že až dosud šlo všecko dobře a že jsem si nemohl na nic stěžovat. Jestliže průměr obtíží nevzroste, nebudeme se moci minout s cílem.
 
 Jaká sláva potom! Uvažoval jsem už skoro jako profesor Liddenbrock. Docela vážně. Nebylo to tím podivným prostředím, v němž jsme teď žili? Snad.
@@ -54,3 +56,5 @@ Než jsem začal znovu stoupat, napadlo mi, že by bylo dobré trochu se omýt. 
 Ale kdo popíše mé překvapení!
 
 Narazil jsem na suchou, hrbolatou skálu. Pod nohama už žádný potok netekl!
+
+</section>

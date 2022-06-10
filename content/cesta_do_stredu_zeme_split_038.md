@@ -3,6 +3,8 @@ title: ZTROSKOTÁNÍ
 contentType: prose
 ---
 
+<section>
+
 Zde končí to, co jsem nazval „palubním deníkem“ tak šťastně zachráněným při ztroskotání. Pokračuji v líčení jako dřív.
 
 Nemohu říci, co se stalo s prámem po nárazu na skaliska při pobřeží. Cítil jsem, že padám do vody. Jedině proto, že mě silná Hansova ruka vyrvala propasti, unikl jsem smrti a mé tělo nebylo rozerváno ostrými skálami.
@@ -144,3 +146,5 @@ Pokynul mi, abych se podíval na přístroj. Unikl mi výkřik překvapení. Hro
 Otřásl jsem kompasem a znovu se na něj zadíval. Střelka byla ve stejné poloze. Ať jsem jí dal jakýkoli směr, vracela se umíněně do nečekané polohy.
 
 Nemohli jsme už pochybovat, že za bouře došlo k nepozorované změně větru. A ten zanesl prám k pobřeží, které podle strýcova přesvědčení zůstalo za námi!
+
+</section>

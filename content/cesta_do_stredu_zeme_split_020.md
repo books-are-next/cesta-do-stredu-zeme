@@ -3,6 +3,8 @@ title: DALŠÍ SESTUP
 contentType: prose
 ---
 
+<section>
+
 V osm hodin ráno nás probudil paprsek denního světla. Tisíce lávových plošek na stěnách jej cestou odráželo a rozptylovalo v déšť jisker. Byl to svit tak silný, že jsem v něm mohl rozeznávat okolní předměty.
 
 „Nu, Axeli, co tomu říkáš?“ zeptal se strýc a zamnul si ruce. „Strávil jsi někdy v našem domě na Královské třídě klidnější noc? Žádný hluk vozů, žádný křik prodavačů, žádné klení lodníků!“
@@ -132,3 +134,5 @@ Je to možné?“
 Profesorův výpočet byl přesný. Překonali jsme o šest tisíc stop největší hloubku dosaženou člověkem v tyrolských dolech u Kitzbühelu a v Příbrami v Čechách.
 
 Ale teplota, která tu měla dosáhnout jedenaosmdesáti stupňů, byla sotva patnáct stupňů. To byl důvod ke zvláštnímu zamyšlení.
+
+</section>

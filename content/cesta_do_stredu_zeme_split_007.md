@@ -3,6 +3,8 @@ title: VÁŽNÉ ROZHODNUTÍ
 contentType: prose
 ---
 
+<section>
+
 Měl jsem jen čas položit nešťastný dokument zase na stůl.
 
 Profesor Liddenbrock se zdál velmi zamyšlený. Jeho utkvělá myšlenka mu nedopřála ani chvíli klidu. Určitě promýšlel a zkoumal celou tu záležitost, zmobilizoval na procházce všechny prameny své obrazivosti a vrátil se teď, aby vyzkoušel nějaký nový postup.
@@ -110,3 +112,5 @@ Strýc po přečtení vyskočil, jako by se byl náhle dotkl leydenské láhve n
 „Cože?“ vykřikl jsem.
 
 „A svá taky,“ dodal neúprosný profesor, odcházeje do jídelny.
+
+</section>

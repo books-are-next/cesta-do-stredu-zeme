@@ -3,6 +3,8 @@ title: DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY
 contentType: prose
 ---
 
+<section>
+
 Probudil jsem se v neděli ráno, tentokrát bez obvyklého spěchu a příprav na okamžitý odchod. Ač jsme byli v hluboké propasti, bylo nám docela příjemně.
 
 Na život troglodytů jsme si ostatně už zvykli. Já jsem už nemyslel na slunce, na hvězdy, na měsíc, na stromy, na domy, na města a na všechny ty pozemské zbytečnosti, z nichž si pozemšťané udělali nezbytnosti. Teď jsme byli pravěcí lidé a dívali jsme se na tyto zázraky s pohrdáním. Jeskyně tvořila velký sál. Po žulovém podkladu tekl tiše náš věrný potok. V této vzdálenosti od pramene neměla už jeho voda původní teplotu a dala se bez obtíží pít.
@@ -146,3 +148,5 @@ Nechal jsem si však tuto námitku pro sebe a čekal jsem na vývoj událostí.
 Zbytek dne uplynul ve výpočtech a v hovorech. Neustále jsem souhlasil s profesorem Liddenbrockem a záviděl jsem Hansovi jeho dokonalou lhostejnost.
 
 Nepátral po příčinách a následcích a šel slepě tam, kam ho osud vedl.
+
+</section>

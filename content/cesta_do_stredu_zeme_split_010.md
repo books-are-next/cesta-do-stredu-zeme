@@ -3,6 +3,8 @@ title: V KODANI
 contentType: prose
 ---
 
+<section>
+
 Altona, hamburské předměstí, leží na konci železniční trati z Kielu. Odtud nás měl vlak odvézt na pobřeží Baltu. V necelých dvaceti minutách jsme byli na holštýnském území.
 
 V půl sedmé se povoz zastavil před nádražím. Četná strýcova zavazadla a jeho objemné cestovní potřeby byly vyloženy, přeneseny, zváženy, označeny a uloženy v zavazadlovém vagónu. V sedm hodin jsme už seděli proti sobě v oddělení vozu. Pára zasyčela a lokomotiva se dala do pohybu. Vyjeli jsme.
@@ -110,3 +112,5 @@ Přesto jsem musel vstát, napřímit se a dívat se. Má první lekce v překon
 „Zítra to budeme opakovat,“ řekl mi profesor.
 
 A skutečně. V dalších pěti dnech jsme pokračovali v lekcích přemáhání závrati a já jsem chtě nechtě dělal pozoruhodné pokroky v umění „dívat se do hloubky“.
+
+</section>

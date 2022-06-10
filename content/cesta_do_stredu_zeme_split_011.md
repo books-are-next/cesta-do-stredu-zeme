@@ -3,6 +3,8 @@ title: NA ISLANDU
 contentType: prose
 ---
 
+<section>
+
 Nastal den odjezdu. Ráno nám ochotný pan Thomson přinesl nutný doporučující dopis pro islandského guvernéra barona Trampea, pro biskupova tajemníka pana Pieturssona a pro reykjavíckého starostu pana Finsena. Strýc mu oplátkou co nejvřeleji stiskl ruku.
 
 Dne 2. června v šest hodin ráno byla naše vzácná zavazadla složena na palubě Valkýry. Kapitán nás odvedl do dvou velmi úzkých kabin, zařízených v jakémsi přístěnku.
@@ -104,3 +106,5 @@ Jejich oděv tvořila hrubá kazajka z černé vlny, známá ve všech skandiná
 Zeny se smutnými a odevzdanými tvářemi vypadaly dost příjemně, ale bezvýrazně. Oblečeny byly do živůtků a sukní z tmavého „vadmelu“. Dívky nosily na vlasech spletených do copů malé čepečky z hnědého trikotu. Vdané ženy si zahalovaly hlavu do barevných šátků, na nichž nosily bílé plátěné mašle.
 
 Když jsem se po dlouhé procházce vrátil do domu pana Fridrikssona, našel jsem tam už strýce ve společnosti našeho hostitele.
+
+</section>

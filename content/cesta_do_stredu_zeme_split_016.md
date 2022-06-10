@@ -3,6 +3,8 @@ title: NOCLEH NA FAŘE
 contentType: prose
 ---
 
+<section>
+
 Stapi je vesnice o třiceti chýších, postavených na lávě a zalévaných sluneč-
 
 ním světlem odraženým od sopky. Táhne se při konci malého fjordu sevřeného skálami nejpodivnějšího vzhledu.
@@ -96,3 +98,5 @@ Zřejmě chtěli dát svým hostům sbohem. Rozloučení se však nečekaně zm�
 Strýc bez smlouvání zaplatil. Člověk, který odchází do středu Země, nehledí přece na nějaký ten rixdal.
 
 Po zaplacení dal Hans znamení k odchodu. Za několik minut jsme Stapi opustili.
+
+</section>

@@ -3,6 +3,8 @@ title: HROZÍ NÁM NEDOSTATEK VODY
 contentType: prose
 ---
 
+<section>
+
 Nazítří, dne 30. června, jsme pokračovali od šesti hodin v sestupu.
 
 Šli jsme stále stejnou lávovou galerií jako přirozenou chodbou mírného sklonu, jaké ve starých domech nahrazují dosud schodiště. Tak tomu bylo až do dvanácti hodin sedmnácti minut, přesně do chvíle, kdy jsme došli Hanse, který se právě zastavil.
@@ -100,3 +102,5 @@ Byla v tom bezmezná umíněnost. Nevydržel jsem to už. Sebral jsem několik d
 „Nedostatku vody.“
 
 „Nuže, Axele, odměříme si přesné denní dávky.“
+
+</section>

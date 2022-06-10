@@ -3,6 +3,8 @@ title: ROZLUŠTĚNÍ
 contentType: prose
 ---
 
+<section>
+
 Odešel?“ zvolala Marta, která se objevila po zaskřípění přibouchnutých domovních dveří, což otřáslo celým domem.
 
 Ano,“ odpověděl jsem. „Odešel pryč.“
@@ -74,3 +76,5 @@ Byl jsem nepopsatelně vzrušen.
 „Ne, ne! To se nestane!“ zvolal jsem rozhodně. „A protože mohu zabránit vzniku podobného nápadu v hlavě toho starého tyrana, udělám to! Ale bude-li strýc dokumentem taky otáčet před očima, mohl by klíč náhodou objevit. Proto dokument zničím!“
 
 V krbu ještě dohoříval oheň. Popadl jsem nejen papír, ale i Saknussemmův pergamen. Horečnou rukou jsem už chtěl vše hodit na uhlí a zničit tak nebezpečné tajemství, když se dveře pracovny náhle otevřely a v nich se objevil strýc.
+
+</section>

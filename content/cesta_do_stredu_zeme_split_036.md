@@ -3,6 +3,8 @@ title: AXELŮV OSTROV
 contentType: prose
 ---
 
+<section>
+
 Středa 19. srpna. – Prudce vanoucí vítr nám naštěstí umožňuje prchnout rychle z bojiště. Hans je stále u kormidla. Strýc, zahloubán do úvah nad bitevní scénou oddává se opět netrpělivému pozorování moře.
 
 Cesta nabývá zase nudné jednotvárnosti, kterou bych však nechtěl rušit za cenu včerejšího nebezpečí.
@@ -112,3 +114,5 @@ Konečně odplouváme kolem strmých jižních skal. Hans využil zastávky k to
 Ale před naloděním jsem udělal ještě některá pozorování, abych si mohl vypočítat ujetou vzdálenost, kterou zapisuji do svého deníku. Ujeli jsme od Gre
 
 tina přístavu dvě stě sedmdesát mil a jsme šest set dvacet mil od Islandu, pod Anglií.
+
+</section>

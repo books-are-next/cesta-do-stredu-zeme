@@ -3,6 +3,8 @@ title: STAROBYLÁ KNIHA
 contentType: prose
 ---
 
+<section>
+
 Strýcova pracovna vypadala spíš jako muzeum. Byly tam všechny ukázky nerostné říše se jmenovkami, dokonale roztříděny do deseti hlavních skupin.
 
 Všechny ty skvosty mineralogické vědy jsem dobře znal. Místo klackování s chlapci mého věku jsem leckdy raději oprašoval grafity, antracity, černé i hnědé uhlí, rašeliny, asfalty, pryskyřice a organické soli, přesvědčen, že je musím zbavit posledního zrnka prachu. A stejně i všechny kovy od železa po zlato, jehož relativní cena se ztrácela v naprosté rovnosti vědeckých druhů. A všechny kameny, z nichž by se byl dal postavit celý náš dům na Královské třídě, dokonce s jedním pokojem navíc, který bych si byl pěkně zařídil!
@@ -94,3 +96,5 @@ Toho všeho zbavil mého strýce kus starého papíru. Jako oddaný synovec jsem
 Podle mého mínění to nevěstilo pranic, nanejvýš strašnou scénu, až strýc zjistí, že jsem mu snědl oběd.
 
 Polykal jsem poslední ráčky, když mě z rozkoše nad zákuskem vytrhl zvučný strýcův hlas. Jedním skokem jsem se octl z jídelny v jeho pracovně.
+
+</section>

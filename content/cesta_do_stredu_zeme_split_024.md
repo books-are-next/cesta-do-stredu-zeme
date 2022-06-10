@@ -3,6 +3,8 @@ title: HOREČNÁ NOC
 contentType: prose
 ---
 
+<section>
+
 Sestup teď pokračoval novou chodbou. Hans kráčel jako obvykle vpředu.
 
 Neudělali jsme ani sto kroků, když profesor osvítil dlouhou stěnu a zvolal:
@@ -54,3 +56,5 @@ Rozhlédl jsem se pozorněji. Zdálo se mi, že vidím Islanďana s lampou v ruc
 Proč jde pryč? Že by nás opustil? Strýc spal. Chtěl jsem křičet. Ale suchými rty mi neprošel ani hlásek. Nastala hluboká tma a v ní utichl i poslední zvuk.
 
 „Hans nás opouští!“ vykřikl jsem. „Hansi! Hansi!“ Volal jsem však ta slova jen v duchu. Daleko se nedonesla. Ale po prvním záchvěvu hrůzy jsem se hanbil za své podezření vůči muži, v jehož chování nebylo až dosud nic podezřelého. Jeho odchod nemohl být útěkem. Místo aby stoupal galerií vzhůru, scházel dolů. Zlé úmysly by ho přece vedly nahoru. Tyto úvahy mě trochu uklidnily. Napadlo mi něco jiného. Klidného Hanse mohl vyrvat ze spánku jen nějaký vážný důvod. Nevydal se sám na průzkum? Nezaslechl v tiché noci nějaký šumot, který jsem já nevnímal?
+
+</section>

@@ -3,6 +3,8 @@ title: V JESKYNI
 contentType: prose
 ---
 
+<section>
+
 Když jsem přišel k sobě, ležel jsem v pološeru na tlustých přikrývkách.
 
 Nade mnou bděl strýc, pátrající v mé tváři po zbytcích života. Při mém prvním vzdechu mě vzal za ruku, při mém prvním pohledu vykřikl:
@@ -98,3 +100,5 @@ Nerozdělujme se? Cesta tedy ještě neskončila? Rozevřel jsem doširoka udive
 „Na loď? Cože? Vsednout na loď? Je tu snad řeka, jezero nebo moře? Je snad v nějakém podzemním přístavu zakotvena loď?“ Má zvědavost byla na nejvyšší míru vzrušena. Marně se mě strýc snažil zadržet. Když viděl, že má netrpělivost by mi ublížila víc než uspokojení mé touhy, podlehl.
 
 Rychle jsem se oblekl. Z nadbytku opatrnosti jsem se zabalil do jedné z přikrývek a vyšel jsem z jeskyně.
+
+</section>
