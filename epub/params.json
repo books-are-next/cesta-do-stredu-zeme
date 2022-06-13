@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2475-7"
     },
     "elements": {
       "title": "e-booknadpis2bezodstrnkovn\ne-bookobsah",
@@ -907,4 +908,3 @@
     "generatedAt": 1635841310542
   }
 }
-
