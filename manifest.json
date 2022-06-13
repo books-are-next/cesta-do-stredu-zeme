@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-cesta-do-stredu-zeme-f78bf39",
-  "revision": "f78bf39",
+  "identifier": "verne-cesta-do-stredu-zeme-cbc04d5",
+  "revision": "cbc04d5",
   "readingOrder": [
     "promo.html",
     "cesta_do_stredu_zeme_split_002.html",
@@ -61,8 +61,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:30:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155848759
+    "date": "Mon Jun 13 2022 21:59:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157578744
   },
   "documents": [
     {
