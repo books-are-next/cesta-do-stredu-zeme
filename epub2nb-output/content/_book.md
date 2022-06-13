@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2475-7
 readingOrder:
   - promo.html
   - cesta_do_stredu_zeme_split_002.html

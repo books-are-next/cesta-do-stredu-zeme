@@ -2,13 +2,19 @@
 title: Tiráž
 ---
 
-<section>  
 **Jules Verne**  
 **Cesta do středu Země**  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla Cesta do středu Země tak, jak bylo vydáno nakladatelstvím Aloise R. Lauermanna v roce 1882 (VERNE, Jules. _Cesta do středu Země_. Přel. J. K. J.. Praha : Alois R. Lauermann, 1882. 292 s. Knihovna pro český lid ; sv. 12).  
+
+Elektronický text byl získán z otevřeného projektu [Wikizdroje](http://cs.wikipedia.org/wiki/Wikizdroje).
+
+Autorem portrétu Julese Verna na obálce e-knihy je Gaspard-Felix Tournachon.
 
 ***
 
@@ -24,4 +30,4 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-VERNE, Jules. _Cesta do středu Země_. \[online\]. Přel. J. K. J.  Praha : Městská knihovna v Praze, 2012 \[cit. 11. 6. 2022]. Dostupné z: <next-book-url>
+VERNE, Jules. _Cesta do středu Země_. \[online\]. Přel. J. K. J.  Praha : Městská knihovna v Praze, 2012 \[cit. 13. 6. 2022]. Dostupné z: <next-book-url>

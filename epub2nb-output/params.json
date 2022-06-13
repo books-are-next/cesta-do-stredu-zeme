@@ -8,7 +8,8 @@
       "languageCode": "cs",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2475-7"
     },
     "elements": {
       "title": "e-booknadpis2bezodstrnkovn\ne-bookobsah",
@@ -903,6 +904,6 @@
       "user": "books-are-next",
       "repo": "cesta-do-stredu-zeme"
     },
-    "generatedAt": 1654948160479
+    "generatedAt": 1655155747684
   }
 }
