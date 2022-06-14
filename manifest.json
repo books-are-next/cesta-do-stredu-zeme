@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-cesta-do-stredu-zeme-cbc04d5",
-  "revision": "cbc04d5",
+  "identifier": "verne-cesta-do-stredu-zeme-0d6ff88",
+  "revision": "0d6ff88",
   "readingOrder": [
     "promo.html",
     "cesta_do_stredu_zeme_split_002.html",
@@ -61,8 +61,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:59:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157578744
+    "date": "Tue Jun 14 2022 23:21:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655248916242
   },
   "documents": [
     {
@@ -1000,9 +1000,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 158,
-      "chars": 968,
-      "ideas": 15,
+      "words": 190,
+      "chars": 1230,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "cesta_do_stredu_zeme_split_047.html",
@@ -1020,9 +1020,9 @@
   ],
   "totals": {
     "all": {
-      "words": 53324,
-      "chars": 331975,
-      "ideas": 2445
+      "words": 53356,
+      "chars": 332237,
+      "ideas": 2447
     },
     "chapters": {
       "words": 53158,
