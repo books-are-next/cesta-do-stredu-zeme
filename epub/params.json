@@ -50,7 +50,7 @@
             "filename": "cesta_do_stredu_zeme_split_001.md",
             "xhtml": "cesta_do_stredu_zeme_split_001.html",
             "id": 1,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -519,7 +519,7 @@
             "filename": "cesta_do_stredu_zeme_split_048.md",
             "xhtml": "cesta_do_stredu_zeme_split_048.html",
             "id": 48,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
