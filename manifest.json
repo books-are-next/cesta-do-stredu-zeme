@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-cesta-do-stredu-zeme-67c4b3d",
-  "revision": "67c4b3d",
+  "identifier": "verne-cesta-do-stredu-zeme-32ff790",
+  "revision": "32ff790",
   "readingOrder": [
     "promo.html",
     "cesta_do_stredu_zeme_split_002.html",
@@ -58,11 +58,11 @@
     "cesta_do_stredu_zeme_split_045.html",
     "cesta_do_stredu_zeme_split_046.html",
     "cesta_do_stredu_zeme_split_047.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:56:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978209528
+    "date": "Thu Jul 07 2022 08:19:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181942880
   },
   "documents": [
     {
@@ -211,7 +211,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "PŘÍPRAVY NA CESTU",
+          "name": "PŘÍPRAVY NA CESTU",
           "id": null,
           "children": []
         }
@@ -331,7 +331,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CESTA DO GARDÄRU",
+          "name": "CESTA DO GARDÄRU",
           "id": null,
           "children": []
         }
@@ -371,7 +371,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "NOCLEH NA FAŘE",
+          "name": "NOCLEH NA FAŘE",
           "id": null,
           "children": []
         }
@@ -391,7 +391,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "VÝSTUP NA SNEFFELS",
+          "name": "VÝSTUP NA SNEFFELS",
           "id": null,
           "children": []
         }
@@ -431,7 +431,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "POČÁTEK CESTY DO STŘEDU ZEMĚ",
+          "name": "POČÁTEK CESTY DO STŘEDU ZEMĚ",
           "id": null,
           "children": []
         }
@@ -591,7 +591,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY",
+          "name": "DALŠÍ PRONIKÁNÍ DO ZEMSKÉ KŮRY",
           "id": null,
           "children": []
         }
@@ -611,7 +611,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZTRACEN V PODZEMÍ",
+          "name": "ZTRACEN V PODZEMÍ",
           "id": null,
           "children": []
         }
@@ -731,7 +731,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SEN O DĚJINÁCH ZEMĚ",
+          "name": "SEN O DĚJINÁCH ZEMĚ",
           "id": null,
           "children": []
         }
@@ -971,7 +971,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KDE TO JSME?",
+          "name": "KDE TO JSME?",
           "id": null,
           "children": []
         }
@@ -986,7 +986,7 @@
       "role": "chapter",
       "order": 46,
       "prev": "cesta_do_stredu_zeme_split_046.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -999,11 +999,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 190,
-      "chars": 1230,
+      "chars": 1227,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "cesta_do_stredu_zeme_split_047.html",
       "next": null,
@@ -1020,8 +1020,8 @@
   ],
   "totals": {
     "all": {
-      "words": 53356,
-      "chars": 332237,
+      "words": 53355,
+      "chars": 332239,
       "ideas": 2447
     },
     "chapters": {
