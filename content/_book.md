@@ -62,7 +62,7 @@ readingOrder:
   - cesta_do_stredu_zeme_split_045.html
   - cesta_do_stredu_zeme_split_046.html
   - cesta_do_stredu_zeme_split_047.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
