@@ -7,7 +7,7 @@ title: Tiráž
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2475-7 (webová kniha)  
-V MKP 2. elektronické vydání z 7. 7. 2022.
+V MKP 2. elektronické vydání z 21. 7. 2022.
 
 ***
 
@@ -27,7 +27,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v P
 
 Citační záznam této e-knihy:
 
-VERNE, Jules. _Cesta do středu Země_. \[online\]. Přel. J. K. J. V MKP 2. elektronické vydání z 7. 7. 2022. Praha : Městská knihovna v Praze, 2012 \[cit. 7. 7. 2022]. Dostupné z <[books-are-next.github.io/cesta-do-stredu-zeme](https://books-are-next.github.io/cesta-do-stredu-zeme/)>.
+VERNE, Jules. _Cesta do středu Země_. \[online\]. Přel. J. K. J. V MKP 2. elektronické vydání z 21. 7. 2022. Praha : Městská knihovna v Praze, 2012 \[cit. 21. 7. 2022]. Dostupné z <[books-are-next.github.io/cesta-do-stredu-zeme](https://books-are-next.github.io/cesta-do-stredu-zeme/)>.
 
 ***
 
