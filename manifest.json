@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "verne-cesta-do-stredu-zeme-f99a800",
-  "revision": "f99a800",
+  "identifier": "verne-cesta-do-stredu-zeme-91176af",
+  "revision": "91176af",
   "readingOrder": [
     "promo.html",
     "cesta_do_stredu_zeme_split_002.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:01:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151277657
+    "date": "Mon Oct 10 2022 15:53:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417208713
   },
   "documents": [
     {
@@ -1001,7 +1001,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 188,
-      "chars": 1230,
+      "chars": 1233,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -1021,7 +1021,7 @@
   "totals": {
     "all": {
       "words": 53354,
-      "chars": 332237,
+      "chars": 332240,
       "ideas": 2445
     },
     "chapters": {
